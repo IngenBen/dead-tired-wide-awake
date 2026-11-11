@@ -918,3 +918,6 @@ Ben asked for the note to read as 'possibly, especially if cortisol is taken as 
 - Follow-up: saved S251 Liu 2021 to derived/sources/ with a written summary (volume/pages 22:345–358 from prior knowledge, flagged to check); catalogue (totals 251), index and CLAUDE.md range updated.
 ## [2026-11-11] audit | signals vs training check: compatible (signal = rep, training = consistent signals); bridge proposed ch04 L9, mapping ch10 L15, note ch20 L25 -> audit/align-build-sweep-2026-11-09.md Part 4
 ## [2026-11-11] audit | signals: option to retire "three signals" as framework term (keep plain-English uses); 6 lines (ch04 x5, ch10 L15) -> Part 4b
+
+## [2026-11-11] setup | tracked changes in /book/
+Book is now edited with CriticMarkup tracked changes (reviewed in Obsidian with Review Critic) instead of proposals in /audit/; applies to endnotes too. CLAUDE.md updated (new "Editing rules for /book/" section, hard rule 1). Git repo initialised in this folder (assets/Meditation ignored). CSS snippet review-critic-no-arrow added; Review Critic 2.1.1 double-click fix patched in main.js (original backed up to C:\Projects\sleep-inc).
