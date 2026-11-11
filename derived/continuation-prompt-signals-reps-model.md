@@ -2,7 +2,7 @@
 
 Paste this into a new session to pick up where we left off.
 
-> **PARTLY SUPERSEDED 2026-11-12.** Use `derived/core-model.md` for the current model. Superseded here: the model sentence, "a signal is a rep" as the bridge, fitness as one of the three concepts, and the reps condition. Still standing: two signals (not three), the three jobs as what the signals achieve, conditions 1, 2 and 4–6, the current state of /book/, and most of the knock-on list.
+> **PARTLY SUPERSEDED 2026-11-12.** Use `derived/core-model.md` for the current model. Next-session hand-off is now `derived/continuation-prompt-core-model.md`. Superseded here: the model sentence, "a signal is a rep" as the bridge, fitness as one of the three concepts, and the reps condition. Still standing: two signals (not three), the three jobs as what the signals achieve, conditions 1, 2 and 4–6, the current state of /book/, and most of the knock-on list.
 
 ---
 
