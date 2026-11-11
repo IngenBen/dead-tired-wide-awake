@@ -1,0 +1,54 @@
+---
+source_type: STUDY
+source_line: "Phillips AJK et al. 2017, *Sci Rep* 7:3216. https://doi.org/10.1038/s41598-017-03171-4 (61 US undergraduates, 30 days of sleep diaries; the 12 most irregular sleepers had a melatonin rise about 2½ h later than the 12 most regular, the same total sleep, and more daytime sleep; deep sleep not measured)"
+cited_in:
+  - Chapter 5 — Adenosine — Does an irregular sleep schedule reduce deep sleep?
+  - Chapter 6 — Melatonin — When does melatonin actually peak during the night? (supporting use: irregular sleepers' melatonin rise about 2½ h later; also the Ch6 cross-reference note)
+title: Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing
+authors_or_body: Andrew JK Phillips, William M Clerx, Conor S O'Brien, Akane Sano, Laura K Barger, Rosalind W Picard, Steven W Lockley, Elizabeth B Klerman, Charles A Czeisler (Brigham and Women's Hospital / Harvard, Boston, USA)
+year: 2017 (Jun)
+journal_or_publisher: Scientific Reports 7(1):3216
+link: https://pmc.ncbi.nlm.nih.gov/articles/PMC5468315/
+link_checked: YES
+match_confidence: HIGH
+match_notes: Catch-up save (Decisions row 2.1). DOI 10.1038/s41598-017-03171-4 found in Europe PMC (PMID 28607474, PMC5468315, open access). Abstract from the Europe PMC record; Methods copied from the Europe PMC full-text XML (first 4 of 9 paragraphs). Abstract figures: DLMO 00:08 vs 21:32 (irregular vs regular quintile); 12 per group had melatonin and light measured. Total sleep time equal and daytime sleep points are from the Results, not copied here. Deep sleep was not measured.
+access: FULL TEXT (abstract and first part of Methods saved)
+---
+
+## Abstract
+
+The association of irregular sleep schedules with circadian timing and academic performance has not been systematically examined. We studied 61 undergraduates for 30 days using sleep diaries, and quantified sleep regularity using a novel metric, the sleep regularity index (SRI). In the most and least regular quintiles, circadian phase and light exposure were assessed using salivary dim-light melatonin onset (DLMO) and wrist-worn photometry, respectively. DLMO occurred later (00:08 ± 1:54 vs. 21:32 ± 1:48; p < 0.003); the daily sleep propensity rhythm peaked later (06:33 ± 0:19 vs. 04:45 ± 0:11; p < 0.005); and light rhythms had lower amplitude (102 ± 19 lux vs. 179 ± 29 lux; p < 0.005) in Irregular compared to Regular sleepers. A mathematical model of the circadian pacemaker and its response to light was used to demonstrate that Irregular vs. Regular group differences in circadian timing were likely primarily due to their different patterns of light exposure. A positive correlation (r = 0.37; p < 0.004) between academic performance and SRI was observed. These findings show that irregular sleep and light exposure patterns in college students are associated with delayed circadian rhythms and lower academic performance. Moreover, the modeling results reveal that light-based interventions may be therapeutically effective in improving sleep regularity in this population.
+
+## Methods (first part; 4 of 9 paragraphs)
+
+Full-time undergraduates (excluding first-years), aged 18+, were recruited from Harvard College. Enrollment was not based on class schedule or types of classes. Participants were excluded if pregnant or traveling >1 time-zone one week before or during study. 63 participants were enrolled. Two discontinued in the first week for personal reasons. Remaining participants (32 M 29 F) were aged 18–24 (20.23 ± 1.27). One participant selected for the Irregular group discontinued for personal reasons. The next eligible participant was invited as replacement and successfully completed the study.
+
+All participants provided written informed consent. Research was approved by the Partners Health Care Human Research Committee and the Committee on the Use of Human Subjects at Harvard University, and was in compliance with HIPAA regulations and the Declaration of Helsinki. The study did not meet the criteria for a ClinicalTrials.gov registration.
+
+Participants lived in campus housing and reported their self-selected sleep/wake schedule for ~30 days (26–36 days, mean 30.67 days) by online diary during Fall 2013. After consent, participants completed the Pittsburgh Sleep Quality Index53 and Horne-Östberg Morningness-Eveningness Questionnaire54. Individuals self-reported their current GPA after study. On day 15, we classified participants using SRI. The highest (n = 12) and lowest (n = 12) quintiles were selected to wear actiwatches and complete dim-light saliva collection. Participants were blinded to group (i.e., they did not know that they had been assigned to the most regular or most irregular group, only that they had been selected for further study). Diaries were based on ones previously validated against the gold-standard for sleep assessment (polysomnography) in resident physicians55 and used in shift-workers56. Participants completed diaries shortly after awakening to report time of sleep onset, morning awakening, and the timing and duration of any awakenings during their main daily sleep episode. Participants also reported the timing and duration of any other sleep episodes (naps) and any actiwatch removals. To ensure accuracy of entries, each diary was accessible for only 24 h to prevent post-hoc completion; reminders were sent at 08:00. In addition, online diaries were checked daily by study staff, and participants with errors or missing fields were contacted within 24 h to encourage completion and clarify any errors. Using this highly-supervised approach, sleep/wake state was provided for 95% of the study across all individuals; individual completion rates ranged from 72–100%. For day 15 classification, data from days 1–14 were used. Only pairs of non-missing time-points were used to compute SRI. For final analysis, SRI was computed using the longest interval of a whole number of weeks with no missing data to avoid day-of-week bias (i.e., a time interval that is a multiple of 7 days). 2 individuals had one week, 7 had two weeks, 7 had three weeks, and 43 had four weeks. We note that the interval of sleep diary collection overlapped a daylight savings time transition (November). Differences in SRI calculated with a universal time or a daylight-savings-corrected time were negligible, so this did not affect group selection for the later light and melatonin collection.
+
+Light data were obtained minute-by-minute from 22 of 24 participants (11 Regular and 11 Irregular) using Motionlogger-L (Ambulatory Monitoring, Inc., Ardsley, NY) for approximately one week after the study midpoint. For one participant, the device malfunctioned. Another failed to return the watch. All actiwatches were tested against a calibrated light meter for 5–10 min at ~1–5 lux and levels ranging ~90–3000 lux. At 1–5 lux, all actiwatches were within 5 lux of the light meter. From 90–3000 lux, all watches were within 0.25 log10-units of the light meter. Saliva samples were collected hourly from 7 h prior to 3 h after habitual bedtime on a Friday night at the end of the study. There were no restrictions on prior sleep or class attendance. Participants were permitted to take brief naps between samples, interact with others, and use non-light emitting entertainment (e.g., books, board games, music). Participants began ≤5 lux conditions at least 45 minutes before first sample. Participants were instructed to avoid consuming foods and beverages that might impact melatonin levels, i.e., citrus fruits, bananas, and milk. They were also instructed to avoid eating or drinking, and to maintain stable posture, for the 20 min prior to each sample. 13 participants completed saliva collection in a central on-campus room supervised by investigators. The other 11 completed the protocol in individual on-campus rooms. An investigator visited rooms to ensure appropriate dim-light conditions, and light levels were confirmed using the actiwatches. All participants were additionally provided filtered goggles, in case of unanticipated light exposure, and red nightlights for rooms where light was necessary (e.g., bathrooms) to minimize melatonin suppression57. Samples were frozen upon collection. This procedure for assessing circadian phase in the field is based on a validated protocol with a field success rate of 62.5% compared to in-lab DLMO58. Salivary melatonin concentration was determined by standard RIA with analytical sensitivity of 0.2 pg/mL and an intra-assay %CV of 10.8% at 2.1 pg/mL and 11.4% at 20.4 pg/mL (BÜHLMANN Direct Saliva Melatonin RIA, Schönenbuch, Switzerland). DLMO time was determined by interpolating points immediately above and below a threshold of 5 pg/mL. In one participant, the first assay of 5.76 pg/mL was slightly above threshold, with values then rising. To compute DLMO we could extrapolate back to the estimated time of 5.00 pg/mL (19:25) or take the first assay time as DLMO (19:42). Since the individual was in the Regular (earlier) group, we used the latter assumption to be conservative.
+
+## Written summary (not copied text)
+
+*Written 2026-10-19 from the text saved in this file only, following derived/study-summary-template.md; nothing looked up online. Where the saved text does not give a detail, the summary says so.*
+
+### Irregular Sleepers' Body Clocks Ran About 2½ Hours Later
+
+In a 2017 study at Harvard in the USA, researchers had 61 undergraduates aged 18 to 24 keep online sleep diaries for about 30 days. Halfway through, they picked the 12 most regular and 12 most irregular sleepers to wear light-measuring wristwatches and give saliva samples in dim light to time their melatonin rise.
+
+The irregular sleepers' melatonin rose about 2½ hours later (around midnight versus 9:30 pm), their daily sleepiness rhythm peaked later, and their light exposure had a flatter daily pattern. Modelling suggested the difference came mainly from their light patterns. More regular sleep also went with better grades.
+
+**The main takeaway:** Irregular sleep schedules go with a later body clock, probably because of irregular light exposure, and with poorer academic results.
+
+**Quick facts**
+
+- **Authors:** Phillips AJK, Clerx WM, O'Brien CS, Sano A, Barger LK, Picard RW, Lockley SW, Klerman EB, Czeisler CA
+- **Link:** https://pmc.ncbi.nlm.nih.gov/articles/PMC5468315/
+- **Published in:** *Scientific Reports* (peer-reviewed journal)
+- **Study type:** Observational study with a mathematical model
+- **Age range:** 18–24
+- **Measures:** Sleep diaries (sleep regularity index), salivary dim-light melatonin onset, wrist light measurement, GPA
+- **Caveat:** Students at one university; melatonin measured in only 24; deep sleep not measured; association only
+- **Replication:** Not checked (saved text only)
+- **Evidence:** Moderate (careful measurement, small comparison groups)

@@ -1,0 +1,5 @@
+# Large audio/project files (1.5 GB)
+assets/Meditation/
+# Filesystem temp files
+.fuse_hidden*
+audit/_to_delete/

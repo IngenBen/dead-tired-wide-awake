@@ -1,0 +1,16 @@
+Read CLAUDE.md first and follow it exactly. /book/ is read-only (including /book/endnotes.md): write proposals and clean copies to /audit/, never edit the book. Do not edit derived/sources/endnote-review-log.md.
+
+Context (state at 2026-10-20 morning). Read the last five entries of log.md before starting.
+- Every source file in derived/sources/ (191) now ends with a '## Written summary (not copied text)' section, written from that file's saved text only (derived/study-summary-template.md format). Yoo 2007 now has full text; Harvard Health and NHS inform food-intolerance files hold flagged candidate/substitute pages (LOW; both already dropped from the Notes).
+- Five points surfaced while writing the summaries. Reviewed with Ben 2026-10-19/20:
+  1. Riley 2024 (prediabetes, not healthy adults): CLOSED, already fixed. Decision 9.8 dropped Riley from the Ch16 protein note; the clean copy no longer cites it. The wrong line survives only in the current /book/endnotes.md and goes when Ben merges.
+  2. Saleska 2024 (no placebo; not a CBN-only trial): CLOSED, already fixed. Decisions 1.1–1.3 rewrote the Ch3 CBN note; the clean copy's source line says 'no placebo group' and describes CBD vs CBD+CBN.
+  3. Zaplatosch 2020 (Ch24 'Does mild dehydration raise cortisol?'): CLOSED, no change (Ben 2026-10-20: 'leave this item as it is'). The abstract's 'negligible effect on … stress' refers to salivary alpha-amylase; the review classes cortisol under metabolism, so the note is accurate. No balance line, no citation-line clarification, and the source summary's caveat (including the word 'often') stays as written. This also closes step 4 of derived/continuation-prompt-after-kb-sync.md.
+  4. Lovallo 2005 (96 vs 98 participants): OPEN, expected to close with no change. Abstract and Table 1 give 96 (48 men, 48 women); the Methods text says 98 were recruited. The notes (Ch7 late-caffeine note and Ch14 delay note in the clean copy) say '48 men and 48 women', which matches the analysed sample. Show Ben the one-line finding and ask whether to close with no change (recommended) or add '(98 recruited)' to the source line.
+  5. WHO noise (2011 fact sheet, not the 2018 guidelines): CLOSED, already fixed. Decision 8.1 dropped the WHO line from the Ch13 sudden-noise note; the clean copy no longer cites it. The source file stays for the record.
+
+Explaining to Ben: he asked for plain language for non-scientific readers. For each item give (a) what the chapter says, quoted, (b) what the note says, (c) the conflict in one or two sentences, then the recommendation. One item at a time; wait for his answer.
+
+Then carry on with derived/continuation-prompt-after-kb-sync.md: step 1 (after Ben merges the clean copy: compare by script, update CLAUDE.md, catalogue counts), step 2 (after Ben applies the Group G rewordings: check sections 1–26), step 3 (only if asked: untagged KB stragglers and the three unsaved sources). Step 4 is closed (item 3 above).
+
+Standing instructions and preferences from derived/continuation-prompt-after-kb-sync.md still apply. Helper scripts live in $HOME/work/ (may be gone; rewrite if needed), never in the project folders. Assert each old string occurs once before replacing. Append a log.md entry per stage and write the next continuation prompt to derived/ at the end.
