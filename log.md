@@ -930,3 +930,4 @@ Book is now edited with CriticMarkup tracked changes (reviewed in Obsidian with 
 
 ## [2026-11-11] query | concept count check: two core concepts (Sleep Inc company; training/fitness) confirmed; misaligned still ~20 uses as description (ch05 L33 frames it as a problem); calming/activating system flagged as the main candidate third concept (ch10 L11-13, ch20, ch22). /book/ not touched.
 ## [2026-11-11] edit | ch05 L33: "alignment problem" -> "teamwork problem" (misalignment no longer framed as a problem); introduces->introduced; Its->It's. Pending review.
+## [2026-11-11] edit | ch10 L13: two settings recast as what training builds (calming system + body clock), not a second diagnosis. Pending review.
