@@ -925,3 +925,5 @@ Book is now edited with CriticMarkup tracked changes (reviewed in Obsidian with 
 ## [2026-11-11] edit | signals -> culture/work together/three jobs: tracked changes in ch04 (L7, L9, L13, L67, L75 + new para, L79), ch10 (L13, L15), ch26 (L35). Pending review in Obsidian. Wiki updates (four-executives, sleep-incorporated-metaphor, calming-activating-systems, index) to follow after acceptance.
 
 ## [2026-11-11] edit | third job named after disruptors (matches Phase 2/5 headings): tracked changes ch10 L15, ch26 L11. Prior ch04/ch10/ch26 edits accepted and committed.
+
+## [2026-11-11] audit | wiki sync after signals->culture edits: calming-activating-systems, sleep-incorporated-metaphor, four-executives, hormone-misalignment, index.md

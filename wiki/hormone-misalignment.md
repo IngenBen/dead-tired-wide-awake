@@ -1,12 +1,12 @@
 ---
 title: Hormone misalignment
-aliases: [misaligned, misaligned executives, executive misalignment, out of alignment, hormonal disruption, tired but wired]
+aliases: [misaligned, misaligned executives, executive misalignment, out of alignment, hormonal disruption, tired but wired, working against each other]
 type: concept
 level: core
 status: original-idea
 appears_in:
   - ch02: first use — the whole system "out of alignment", so one-thing tips couldn't work
-  - ch04: defined — cortisol still high, dopamine fed all evening, melatonin trying to rise, adenosine high but unheard; four executives misaligned because nothing in the day had trained the system to line them up; leads straight into the one-liner "Not broken, just not well trained"; vicious cycle named
+  - ch04: defined — cortisol still high, dopamine fed all evening, melatonin trying to rise, adenosine high but unheard; misalignment named at the graph passage ("that's the misalignment I lived with"); at 2am the four executives are working against each other and nothing in the day had helped them work together; leads straight into the one-liner "Not broken, just not well trained"; vicious cycle named
   - ch05: overriding adenosine framed as an alignment problem
   - ch06: missing the sleep window described as the Sleep Executives losing ground to the Wake Executives; a rhythm that has lost its footing
   - ch07: cortisol refusing to decline described as misalignment
@@ -14,7 +14,7 @@ appears_in:
   - ch09: full synthesis — aligned vs. misaligned night shown explicitly; three symptoms mapped to executive failures (can't get to sleep, waking at 2–3am, waking tired); "Not a flaw in you. Not a bad sleeper. Misaligned"; the systems that keep the executives aligned can be trained, mostly during the day
   - ch16: food timing keeps everything aligned
   - ch22: tired-but-wired state during the day as daytime misalignment
-  - ch26: close — the reader has the training program to align the four executives
+  - ch26: close — the reader has the training program to get the four executives working together (was "align" until 2026-11-11)
 canonical: The state in which the four key hormones fail to follow their correct daily arc — particularly at bedtime, when sleep executives (adenosine, melatonin) cannot gain control because wake executives (cortisol, dopamine) remain elevated. Misaligned is the book's only diagnosis word and describes the hormones; the cause is that the systems keeping them aligned are not well trained.
 ---
 
