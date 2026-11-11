@@ -929,3 +929,4 @@ Book is now edited with CriticMarkup tracked changes (reviewed in Obsidian with 
 ## [2026-11-11] audit | wiki sync after signals->culture edits: calming-activating-systems, sleep-incorporated-metaphor, four-executives, hormone-misalignment, index.md
 
 ## [2026-11-11] query | concept count check: two core concepts (Sleep Inc company; training/fitness) confirmed; misaligned still ~20 uses as description (ch05 L33 frames it as a problem); calming/activating system flagged as the main candidate third concept (ch10 L11-13, ch20, ch22). /book/ not touched.
+## [2026-11-11] edit | ch05 L33: "alignment problem" -> "teamwork problem" (misalignment no longer framed as a problem); introduces->introduced; Its->It's. Pending review.

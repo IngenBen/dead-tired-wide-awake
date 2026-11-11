@@ -30,7 +30,7 @@ The problem is almost never a shortage of adenosine. Your body generates it cont
 
 The problem is usually one of two things, or often both. Either something is overriding adenosine and you can't get to sleep, or the pressure isn't clearing properly overnight and you wake up tired.
 
-Overriding adenosine is an alignment problem. Chapter 4 introduces the other executives, and when they're not moving in the same direction, the signal gets drowned out. The pressure is real. Adenosine is still built up. Its just not winning the battle. You're tired, but you lie awake anyway. More on that in Chapter 7.
+Overriding adenosine is a teamwork problem. Chapter 4 introduced the other executives, and when they're not moving in the same direction, the signal gets drowned out. The pressure is real. Adenosine is still built up. It's just not winning the battle. You're tired, but you lie awake anyway. More on that in Chapter 7.
 
 Adenosine not clearing overnight usually comes down to one thing above all: not enough deep sleep. When deep sleep is fragmented or suppressed, adenosine clears more slowly, not leaving enough time for the brain to finish the overnight reset. You sleep, but don't fully empty the tank.
 
