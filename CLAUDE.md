@@ -98,6 +98,10 @@ chapters, then ongoing AUDIT and (later) QUERY.
   living file per topic (no dates in names; update in place). The KB holds the atomic claims
   with sources (untagged unless they become endnotes) and points to the explainer; wiki pages
   link to it. First: `melatonin-dose-and-timing.md` (2026-10-21). Also `why-change-is-hard.md` (2026-11-03): background beyond the book (deeper view of the willpower thread); no KB entries, entries in summary-plus-sources format so they can be lifted into the KB if the book uses them.
+- **`/derived/core-model.md`** — the book's core model (added 2026-11-12): the three concepts
+  (company, signals, training), the pub version in two layers, the model sentence, the three jobs in
+  company terms, and the decision history. Living file; it records the intended direction and runs
+  ahead of /book/ until edits are accepted. Read it before any work on the core concepts.
 - **`/derived/three-pillars-mapping.md`** — habit-to-pillar assignment and the current
   five-phase structure (Food Timing = Ch16, Habit 3; Phase 6 removed 2026-09-25).
 - **`/audit/archive/`** — spent files: all `-proposed` edits (hand-applied by author),

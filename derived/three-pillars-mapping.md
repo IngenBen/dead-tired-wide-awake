@@ -2,6 +2,8 @@
 
 Marketing frame: **"Train your body clock. Build your nervous system. Remove disrupters."**
 
+> **Note 2026-11-12.** The three pillars and the habit assignments below still stand. Their company versions (the roster, a clean handover, calling the wrong executives in at the wrong time) are in `derived/core-model.md`. **Pillar 2 wording superseded 2026-11-09:** the book's Phase 4 heading now reads "Build your calming system" (Ch20 L1). "Build your nervous system" below is the older wording.
+
 The book claims each habit serves one or more of these pillars. This file records the confirmed assignment for each habit chapter, with the author's reasoning and the best supporting snippet from the text.
 
 ---

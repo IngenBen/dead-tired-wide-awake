@@ -2,6 +2,8 @@
 
 *Written 2026-09-24 at the end of the first thread. Paste or point the new thread at this file.*
 
+> **HISTORICAL. Thesis framing SUPERSEDED 2026-11-12.** Fitness is no longer the book's thesis; it is an illustration of the change process only. See `derived/core-model.md`. *Misaligned* as the diagnosis word was retired 2026-11-11. Still standing: Decision 1 (one-liner), Decision 3 (fix / broken), Decision 5 ("sleep fit" not coined), Decision 6 (labels describe the sleep).
+
 ---
 
 ## Start here
@@ -12,13 +14,13 @@
 
 ---
 
-## What this pass is
+## What this pass is *[SUPERSEDED 2026-11-12: see `derived/core-model.md`]*
 
 Changing the book's central message from *"not broken, misaligned"* to **sleep is like fitness**: you don't do one thing, you do lots of small daily habits consistently over time. The goal is to be **sleep fit**, not physically fit.
 
 > **Decision 5 (2026-09-24): 'sleep fit' is NOT coined as a book term.** Simple language only: the fitness analogy, training verbs and the one-liner carry the thesis. The definition below is audit reference only.
 
-### The three layers (agreed)
+### The three layers (agreed) *[SUPERSEDED 2026-11-12]*
 - **Sleep Incorporated** = what has to happen (four executives aligned at bedtime). **Misaligned** is the diagnosis and stays.
 - **Activating / Calming** = the daily decision tool. Terms retained (no renaming).
 - **Sleep fit** = what consistent practice builds: a trained body clock and a strong calming system.
@@ -34,9 +36,9 @@ It must read as "train sleep the way you train fitness", **never "exercise more"
 ## Decisions made
 
 1. **One-liner:** "Not broken, just not well trained." Used at Ch04 L67 and Ch19 L29.
-2. **Diagnosis words:** *misaligned* is the only diagnosis word (it describes the hormones; "not well trained" describes the systems that keep them aligned). Replace *well-regulated / regulation* (Ch06 L27, Ch07 L19, Ch08 L17, Ch18 L45, Ch19 L129, Ch21 L40), *balance* (Ch19 L55) and *fault in the handover* (Ch10 L13) with training words. Keep *rhythm lost its footing* (Ch06 L75) and *dysregulation* (Ch25 L32, blood sugar).
+2. **Diagnosis words:** *[Misaligned part SUPERSEDED 2026-11-11: retired as a concept.]* *misaligned* is the only diagnosis word (it describes the hormones; "not well trained" describes the systems that keep them aligned). Replace *well-regulated / regulation* (Ch06 L27, Ch07 L19, Ch08 L17, Ch18 L45, Ch19 L129, Ch21 L40), *balance* (Ch19 L55) and *fault in the handover* (Ch10 L13) with training words. Keep *rhythm lost its footing* (Ch06 L75) and *dysregulation* (Ch25 L32, blood sugar).
 3. **Fix / broken:** *broken* describes the sleep only, never the person or system. *Fix* is the language of the wrong approach: keep it where it criticises quick fixes; replace it with build/train/rebuild where it describes the goal or result; leave everyday uses. Sort all 53 uses chapter by chapter.
-4. **Final beat (Ch26 L35):** the last sentence becomes "And you have the training program to align the four executives, who will turn the company around." No one-liner callback. L37 and L39 unchanged. Fix the 2 em dashes in Ch26 L29 and L33.
+4. **Final beat (Ch26 L35):** *[SUPERSEDED 2026-11-11: Ch26 L35 now says "get the four executives working together".]* the last sentence becomes "And you have the training program to align the four executives, who will turn the company around." No one-liner callback. L37 and L39 unchanged. Fix the 2 em dashes in Ch26 L29 and L33.
 
 ---
 
