@@ -8,7 +8,7 @@ That's where I started.
 
 The program starts from a different idea. You are not trying to fix sleep directly. You are creating the conditions that allow it to happen. Nobody tries to get fit on the night of a race. You build the fitness first, and the performance follows. Sleep works the same way. Lots of small daily habits, done consistently. That shift (from chasing the outcome to supporting the system that produces it) is the whole thing.
 
-The habits were doing three things: training your body clock, building your calming system, and removing what kept you activated at night, so sleep could come when it should. Each one seemed almost too small to matter: light exposure in the morning, a three-hour gap between dinner and bed, a consistent wake time. None of it felt like fixing sleep. That was the point.
+The habits were doing three things: training your body clock, building your calming system, and removing the disruptors that kept you awake at night, so sleep could come when it should. Each one seemed almost too small to matter: light exposure in the morning, a three-hour gap between dinner and bed, a consistent wake time. None of it felt like fixing sleep. That was the point.
 
 The progress is gradual, but recognising it can happen in a moment.
 

@@ -12,7 +12,7 @@ For most of my life I'd been stuck on the activated setting: wound up, switched 
 
 The two settings are built to take turns, and bad sleep almost always comes down to one of two things: a calming system too weak to take over, or the two swapping on the wrong schedule. Both can be trained.
 
-So the habits do the three jobs from Chapter 4, turned into daily action. Train the body clock. Build the calming system. Stop activation at the wrong times. Every habit in the chapters ahead is one of those three. Know each habit's job and you'll see how it works toward a good night's sleep.
+So the habits do the three jobs from Chapter 4, turned into daily action. Train the body clock. Build the calming system. Remove the disruptors that get in the way. Every habit in the chapters ahead is one of those three. Know each habit's job and you'll see how it works toward a good night's sleep.
 
 The program runs in order. Twelve habits, each building on the last. Ready for you to work through at your own pace.
 
