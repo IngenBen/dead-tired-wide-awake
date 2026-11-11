@@ -67,16 +67,16 @@ Eventually I came to realise that once you boil it all down, underneath all of i
 
 Hormones that need to rise and fall in a predictable rhythm throughout 24 hours. That was the mechanism.
 
-When those hormones are aligned (right amounts, at the right times), sleep happens naturally. When they're not, no "one thing" will reliably fix it.
+When those hormones {~~are aligned~>work together~~} (right amounts, at the right times), sleep happens naturally. When they{~~'re not~> don't~~}, no "one thing" will reliably fix it.
 
 As I dug deeper, I discovered there are dozens of hormones involved in sleep. A long, complicated list. But I wasn't looking for a complete biological picture. I was looking for the mechanisms I could leverage. I wanted to focus only on the ones that would move the needle, the hormones that did most of the work, and the ones I could actually do something about.
 
 That's when the pattern emerged. The list narrowed from dozens to just four.
 
-Four hormones that sit at the top of the system. When aligned, they bring the rest into order. When they're not, everything else is just treating symptoms.
+Four hormones that sit at the top of the system. {~~When aligned~>When they're working as they should~~}, they bring the rest into order. When they're not, everything else is just treating symptoms.
 
 That was the mechanism, which creates the foundation. Four hormones.
 
-What they do, how they work and what disrupts them, is where we start. And most of the habits that keep them aligned don't require anything extraordinary. Just small adjustments in an ordinary day, done consistently.
+What they do, how they work and what disrupts them, is where we start. And most of the habits that keep them {~~aligned~>working together~~} don't require anything extraordinary. Just small adjustments in an ordinary day, done consistently.
 
 That foundation can be built. And that's what the rest of this book is about.
