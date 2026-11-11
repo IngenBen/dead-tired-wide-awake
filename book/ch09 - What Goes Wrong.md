@@ -2,17 +2,17 @@
 
 You've now met all four executives, one at a time. Let's get them in the room all at the same time.
 
-Back in Chapter 4 I showed you this and said to hold it loosely. By now it should make a lot more sense.
+Back in Chapter 4 I showed you this. By now it should make a lot more sense.
 
 ![[image-when-it-all-lines-up.gif]]
 
 Through the day, the Wake Executives run the shift. Through the evening, they stand down. The Sleep Executives take over. At bedtime, sleep hormones high, wake hormones low. 
 
-If everything lands where it should, that's {~~alignment. All~>all~~} four executives working together. You feel awake at the right times, tired at the right times, and sleep when you're supposed to.
+If everything lands where it should, that's all four executives working together. You feel awake at the right times, tired at the right times, and sleep when you're supposed to.
 
 ## The bad night
 
-The other version is {~~misalignment~>the executives working against each other,~~} and it can go very wrong. Cortisol won't fall, still activated deep into the night. Dopamine keeps spiking, another hit with every phone check. Melatonin is rising, but it's weakened and outnumbered. Adenosine keeps building, and maybe sometime after midnight its strong enough that the others finally take notice. Sleep comes, but it has run out of time to do its job before morning hits.
+The other version is the executives working against each other, and it can go very wrong. Cortisol won't fall, still activated deep into the night. Dopamine keeps spiking, another hit with every phone check. Melatonin is rising, but it's weakened and outnumbered. Adenosine keeps building, and maybe sometime after midnight its strong enough that the others finally take notice. Sleep comes, but it has run out of time to do its job before morning hits.
 
 ![[image-when-it-goes-wrong.gif]]
 
@@ -90,8 +90,8 @@ Whatever the case, a good night or a shallow night might not be enough to clear 
 
 Different nights. One cause.
 
-Not a flaw in you. Not a bad sleeper. {~~Misaligned: four executives~>Four executives working against each other,~~} arriving at bedtime in the wrong places.
+Not a flaw in you. Not a bad sleeper. Four executives working against each other, arriving at bedtime in the wrong places.
 
-Which is the good news. The systems that {~~keep them aligned~>get them working together~~} can be trained. And you mostly train them during the day, not at night.
+Which is the good news. The systems that get them working together can be trained. And you mostly train them during the day, not at night.
 
 That's the program.

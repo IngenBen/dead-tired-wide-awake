@@ -32,11 +32,11 @@ Below the managers are the workers, the neurotransmitters that carry the moment-
 
 ![[image-sleep-incorporated.gif]]
 
-If the executives are {~~aligned~>working together~~}, the whole company functions properly. The managers know what to do. The workers carry it out. And you sleep.[^2]
+If the executives are working together, the whole company functions properly. The managers know what to do. The workers carry it out. And you sleep.[^2]
 
-When the executives are {~~not aligned~>working against each other~~} (cortisol still high when it should be falling, dopamine fed all evening when it should be quieting), the managers get conflicting instructions which they pass straight to the workers. Some are ready for you to sleep, others are working hard to keep you awake. The result is chaos. You're lying awake at midnight, mind still running, wondering why you can't drift off.
+When the executives are working against each other (cortisol still high when it should be falling, dopamine fed all evening when it should be quieting), the managers get conflicting instructions which they pass straight to the workers. Some are ready for you to sleep, others are working hard to keep you awake. The result is chaos. You're lying awake at midnight, mind still running, wondering why you can't drift off.
 
-Once I learned the executive level was where I had influence, and the key was to get them {~~lined up~>working together~~}, I needed to understand exactly what {~~alignment~>that~~} looked like. How each one should move, hour by hour, across a full day. So I started mapping it out, all of them together on a graph, throughout a 24 hour period.
+Once I learned the executive level was where I had influence, and the key was to get them working together, I needed to understand exactly what that looked like. How each one should move, hour by hour, across a full day. So I started mapping it out, all of them together on a graph, throughout a 24 hour period.
 
 That's when it clicked. 
 
@@ -50,13 +50,13 @@ Once I had that picture in my head, everything else really started to fall in to
 
 I also started to see why all the quick fixes I'd been trying were so unreliable. A sleeping pill, for instance, is like an external consultant. Coming from the outside, bypassing the executives and the managers, and delivering a message straight to the workers. "Forget the orders from the top… clock off and go to sleep."
 
-Sometimes they worked, sometimes they didn't. But they never fixed the root problem. The executives {~~were misaligned~>still weren't working together~~}, and the system was still screaming top-down: wake up.
+Sometimes they worked, sometimes they didn't. But they never fixed the root problem. The executives still weren't working together, and the system was still screaming top-down: wake up.
 
 I'm not anti-sleeping pills. I've come to realise sometimes they're the only thing that gives immediate relief, and used short-term they can help while you train the system underneath. If you're already on them, I wouldn't recommend stopping. Instead build the foundation first, then speak to your doctor.
 
-The graph above, which I will take you through in detail in the next four chapters, shows each of the hormones moving as they should. When they arrive at the correct place at bedtime, that's {~~alignment~>four executives working together~~}.
+The graph above, which I will take you through in detail in the next four chapters, shows each of the hormones moving as they should. When they arrive at the correct place at bedtime, that's four executives working together.
 
-When they don't... that's {~~the misalignment~>what~~} I lived with for more than 20 years.
+When they don't... that's what I lived with for more than 20 years.
 
 Middle of the night. Wide awake. Heart going. Thoughts running through tomorrow's meeting, solving problems, worrying about the future. Just running. Creating that desperate frustration where your exhausted to your bones but your mind won't shut up. I didn't feel like I needed a good night's sleep. I felt like I needed a month of them!
 
@@ -81,4 +81,4 @@ By the time you've read all four, you'll have something I didn't have for more t
 ---
 [^1] Technically, adenosine is a neuromodulator and dopamine is mainly a neurotransmitter, so neither is strictly a hormone. But in the roles that matter here, both act the way hormones do: broad signals that set your body's state and rise and fall across the day. For simplicity, all four are called hormones throughout the book.
 
-[^2] A note on exceptions. For some women, sleep deteriorates sharply in perimenopause or menopause as progesterone and oestrogen drop, a problem at the manager level that {~~executive alignment~>the executives~~} alone can't fully override. If menopause is the only thing that changed, HRT may be enough to restore the conditions that make sleep possible again. But if your sleep was already fragile, or menopause has knocked other things out of rhythm, you'll likely need both, HRT and the work in this book. Rarer diseases can disrupt managers or workers directly. In all of these cases the framework still helps, but it's a starting point, not the whole answer, and your doctor is the right person to take it further with.
+[^2] A note on exceptions. For some women, sleep deteriorates sharply in perimenopause or menopause as progesterone and oestrogen drop, a problem at the manager level that the executives alone can't fully override. If menopause is the only thing that changed, HRT may be enough to restore the conditions that make sleep possible again. But if your sleep was already fragile, or menopause has knocked other things out of rhythm, you'll likely need both, HRT and the work in this book. Rarer diseases can disrupt managers or workers directly. In all of these cases the framework still helps, but it's a starting point, not the whole answer, and your doctor is the right person to take it further with.

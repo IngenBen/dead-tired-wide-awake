@@ -932,3 +932,4 @@ Book is now edited with CriticMarkup tracked changes (reviewed in Obsidian with 
 ## [2026-11-11] edit | ch05 L33: "alignment problem" -> "teamwork problem" (misalignment no longer framed as a problem); introduces->introduced; Its->It's. Pending review.
 ## [2026-11-11] edit | ch10 L13: two settings recast as what training builds (calming system + body clock), not a second diagnosis. Pending review.
 ## [2026-11-11] edit | retire "aligned/misalignment" as a concept -> "working together / working against each other / working as they should": 14 tracked changes (ch03 L70/76/80, ch04 L35/37/39/53/57/59/84fn, ch09 L11/15/93/95). Reverses 2026-11-09 Option C. Plain uses kept (ch02 L41, ch04 L11, ch06 L25, ch16 L31, endnotes). Pending review; wiki (hormone-misalignment, sleep-as-a-system, four-executives, index) to follow after acceptance.
+## [2026-11-11] edit | ch09 L5: removed false back-reference "and said to hold it loosely" (option A). Pending review.
