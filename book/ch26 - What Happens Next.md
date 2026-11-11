@@ -32,7 +32,7 @@ That was the greatest success of all. Not sleep scores. Not optimising protocols
 
 I wish you every success with it. This approach made a change in my life I didn't believe was possible. That's the reason I wrote it: the hope that it might do the same for someone else.
 
-From here, the book has done what it can. You're the CEO of Sleep Incorporated. You understand how the company runs now. And you have the training program to align the four executives, who will turn the company around.
+From here, the book has done what it can. You're the CEO of Sleep Incorporated. You understand how the company runs now. And you have the training program to get the four executives working together. They'll turn the company around.
 
 The mind that wouldn't switch off finally can. 
 

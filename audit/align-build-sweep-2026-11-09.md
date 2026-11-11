@@ -21,3 +21,6 @@ Assessment: as a *named framework* ("three signals"), signals add a layer withou
 Idea worth keeping from Ch04 L7: you can't operate the machinery directly; you shape the day and the company produces sleep on its own (indirect control).
 Lines to reword: Ch04 L7, L9, L67, L75, L77 · Ch10 L15. Ch04 L9 and L75 would introduce the three jobs (train the body clock, build the calming system, keep activation to the right times) instead of three signals.
 Downstream if adopted: wiki pages four-executives, sleep-incorporated-metaphor, calming-activating-systems, and index.md mention "three signals".
+
+### Part 4c: outcome (2026-11-11)
+Signals retired as a framework term. Replaced with culture ("everyone works together") and three jobs stated as retraining. Marked up as tracked changes in book/ ch04, ch10, ch26; see log.md.

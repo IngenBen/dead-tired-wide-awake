@@ -4,13 +4,11 @@ I’d like you to think about the foundation of your sleep system as a hierarchy
 
 This company makes only one thing: a good night's sleep. But you can't place an order directly. That's the uncomfortable truth from Chapter 3: sleep is something your body *creates*, once the conditions are right. You can't sit down in the evening and *decide* to produce it. It's an output, and outputs require everything upstream to work properly.
 
-As CEO you can’t reach in and operate the machinery yourself. What you can  do is send the right signals across the day, so the company produces the result on its own.
-
-The signals are the language you use to communicate with this company. There are only three. A signal to activate. A signal to calm. A signal about timing. Learning when and how to send each one is what the program in this book is all about. For now though, hold them loosely in your mind while we meet the rest of Sleep Incorporated.
+As CEO you can’t reach in and operate the machinery yourself. What you can  do is shape the culture: one where everyone works together, so the company produces the result on its own.
 
 At the head of the company you have 4 key hormones. These are your executives.
 
-They’re the four we landed on last chapter, not a complete biological picture, instead something a little bit less accurate, but way more useful: your 4 best leverage points. Your A-team. Each one listening for particular signals, and each reacting in its own way.
+They’re the four we landed on last chapter, not a complete biological picture, instead something a little bit less accurate, but way more useful: your 4 best leverage points. Your A-team. Each one doing its best to align with the company culture, each in its own way.
 
 Two of these executives strongly influence sleep. And two of them strongly influence awake.
 
@@ -64,7 +62,7 @@ Middle of the night. Wide awake. Heart going. Thoughts running through tomorrow'
 
 And the good news I realised - this might not be a quirk of my personality or a sign that I am fundamentally broken.
 
-Cortisol hadn't come down. Dopamine had been topped up all evening (screens and notifications), my mind never got a break. Melatonin was trying to rise, but it was fighting two executives still insisting on keeping me awake. Adenosine was high. The tiredness was real. But the rest of the company wasn't listening. Four executives, misaligned. And nothing in my day had ever sent the right signals to help them line them up.
+Cortisol hadn't come down. Dopamine had been topped up all evening (screens and notifications), my mind never got a break. Melatonin was trying to rise, but it was fighting two executives still insisting on keeping me awake. Adenosine was high. The tiredness was real. But the rest of the company wasn't listening. Four executives, working against each other. And nothing in my day had ever helped them work together.
 
 Not broken, just not well trained.
 
@@ -72,9 +70,11 @@ I was the CEO of Sleep Incorporated, but I  just didn't know it. I kept hiring c
 
 The answer wasn't a new consultant. It was learning how the business actually worked, and training it, every day.
 
-And that's what I want to give you, an understanding of the four executives. The hierarchy that follows their lead. The three signals they listen to: activating through the day, calming through the evening, and the timing that switches between the two. 
+And that's what I want to give you: an understanding of the four executives, the hierarchy that follows their lead, and how to turn a company working against itself into one that works together.
 
-Next well move in to the detail: what each executive does, what disrupts them, and what you can do in your ordinary day to ensure you're sending the right signals at the right time,  to support them. The next four chapters go deeper on each executive.
+That takes three things. A reliable body clock, so the executives know when to clock on and when to clock off. A strong calming system, so they actually do. And a CEO who stops getting in their way. None of it changes overnight. Like any training, it comes from daily habits, and every habit in this book does one of those three jobs.
+
+Before the habits, though, you need to know the executives. The next four chapters take each one in turn: what it does, what disrupts it, and what you can do in an ordinary day to support it.
 
 By the time you've read all four, you'll have something I didn't have for more than 20 years, a map of your own system, and a clear sense of what you can do to start supporting it.
 
