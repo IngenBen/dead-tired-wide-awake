@@ -23,15 +23,15 @@ rely on. **Here it is reversed.** The manuscript is the product and the source o
 The author's voice is the point. The wiki is a *derived* analysis layer that sits
 underneath the book — never above it.
 
-Therefore: **you never edit anything in `/book/`.** You read it; you do not write to it.
-Any change you believe the book needs is written as a proposal in `/audit/` for the
-author to apply by hand. This single rule is what protects the author's voice and keeps
+Therefore: **you never change text in `/book/` directly.** When I ask you to edit a
+chapter, you mark up the changes in the chapter as CriticMarkup tracked changes, which I
+accept or reject in Obsidian with Review Critic (see "Editing rules for /book/"). This single rule is what protects the author's voice and keeps
 the manuscript authoritative.
 
 ## Layers and folders
 
-- `/book/` — the manuscript, one file per chapter (`ch01.md` … `ch26.md`). **Immutable.
-  Source of truth. Read-only to you.**
+- `/book/` — the manuscript, one file per chapter (`ch01.md` … `ch26.md`). **Source of
+  truth. Edit only with tracked changes, and only when I ask.**
 - `/assets/` — supporting source material for the book: data files, spreadsheets, graph
   data, images, and other non-prose inputs. Read-only to you; place files here manually.
 - `/wiki/` — your output. One markdown page per concept, technique, claim, or recurring
@@ -42,6 +42,30 @@ the manuscript authoritative.
 - `index.md` — catalog of every wiki page.
 - `log.md` — append-only timeline of operations.
 - `CLAUDE.md` — this schema. We co-evolve it as we learn what works.
+
+## Editing rules for /book/ (CriticMarkup)
+
+Never change text in `/book/` directly. Every edit must be written as CriticMarkup so I
+can accept or reject it in Obsidian:
+
+- Additions: {++new text++}
+- Deletions: {--removed text--}
+- Replacements: {~~old text~>new text~~}
+
+Rules:
+- Keep my original wording intact inside the markup. Don't rewrite text outside it.
+- Never put markup across table cells, heading markers (#), list bullets or code fences.
+  Change the whole table row or line instead.
+- Keep each change as small as possible: change words or phrases, not whole sentences or
+  paragraphs. Only replace a whole sentence when most of it changes.
+- Don't nest markup inside other markup.
+- Don't remove or accept existing CriticMarkup. Only I do that.
+- Don't add {>>comments<<} to explain your changes. Give the reason for each change in the
+  chat instead, numbered in the order the changes appear in the note.
+- When reading `/book/` for BUILD, AUDIT, QUERY or endnotes, treat pending markup as not
+  yet accepted: read the original text.
+- Before each editing pass, commit the current state in git. After I finish reviewing,
+  check for stray markup and commit the result.
 
 **On sources:** there are no external sources and no citations — the only input is the
 book. So this is *decomposition*, not accumulation: a one-time BUILD pass across the 26
@@ -61,8 +85,8 @@ chapters, then ongoing AUDIT and (later) QUERY.
   written summary in the `derived/study-summary-template.md` format (added 2026-10-19, from the saved text only). Chapter numbers in the KB must match
   `/book/endnotes.md`.
 - **`/book/endnotes.md`** — the reader-facing Notes section, now part of the manuscript.
-  A subset of the KB in neutral encyclopedia voice. Read-only like the rest of `/book/`:
-  changes are delivered as a clean copy in `/audit/` for the author to merge by hand.
+  A subset of the KB in neutral encyclopedia voice. Edited with tracked changes like the
+  rest of `/book/`.
   Rebuild from the KB, never from `endnotes-draft.md`.
 - **`/audit/archive/2026-09-24/`** — holds the former `endnotes-final.md` (superseded by
   `/book/endnotes.md`) and `continuity-coherence-pass.md` (the full-manuscript continuity
@@ -145,8 +169,8 @@ On request, health-check the whole wiki and write findings to `/audit/`. Look fo
 - **Unsupported science:** any page with `status: established-science` and no support.
   List these — they are where a citation will be needed before the social/app phase.
 
-Each finding = location (chapter), what's wrong, and a proposed fix. **Never edit
-`/book/`. Proposals only.**
+Each finding = location (chapter), what's wrong, and a proposed fix. **Findings go to
+`/audit/`. Don't mark up `/book/` from an audit unless I ask.**
 
 ### QUERY — later, for the social and app phase
 
@@ -180,8 +204,8 @@ Display rules:
 - If the previous or following paragraph is 2 sentences or fewer, include one additional
   paragraph on that side.
 
-This is a chat-only suggestion. If I then want it recorded, it follows the normal rule —
-the book is read-only, so the change is written as a proposal in `/audit/`, never to `/book/`.
+This is a chat-only suggestion. If I then want it recorded, it is marked up in the chapter
+as tracked changes (see "Editing rules for /book/").
 
 ### SUMMARY PLUS SOURCES — the house style for weak / contested evidence
 
@@ -221,11 +245,11 @@ Each note is rendered as:
   asterisk/italic working-file formatting; any credibility caveat folds into a plain parenthetical.
 
 Because the order is positional within each chapter (not a global running number), this section
-can be compiled **without** waiting for the proposals to be hand-applied to `/book/`.
+can be compiled **without** waiting for pending tracked changes in `/book/` to be accepted.
 
 Working vs. publishable split: `derived/claims-knowledge-base.md` is the working file (all
 tagged entries are the endnote source of truth); `book/endnotes.md` is the compiled
-reader-facing output (edited only via clean copies in `/audit/`). `endnotes-draft.md` is archived — do not use it.
+reader-facing output (edited only with tracked changes). `endnotes-draft.md` is archived — do not use it.
 
 ## index.md
 
@@ -245,7 +269,8 @@ Append-only. One entry per operation, with a consistent prefix so it stays grepp
 
 ## Hard rules (do not violate)
 
-1. `/book/` is read-only. Never edit it. Edits are proposals in `/audit/`.
+1. Never change `/book/` text directly. Edits are CriticMarkup tracked changes, made only
+   when I say which chapter and to go ahead.
 2. Never copy the author's prose into the wiki. Summarise in wiki voice.
 3. Search before you create — edit an existing page rather than spawning a duplicate.
 4. Every claim records where in the book it appears (`appears_in`) and whether it is
