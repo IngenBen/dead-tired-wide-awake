@@ -5,7 +5,7 @@ type: technique
 level: core
 status: established-science
 appears_in:
-  - ch18: full chapter — consistent wake time as non-negotiable anchor; get outside within 30 min of waking; natural light (even overcast) far brighter than indoor; 5–15 min sun, 20 min overcast; morning walk; head up, shoulders back; sleep-ins described and the cost explained; rule: wake time does not move
+  - ch18: full chapter — consistent wake time as non-negotiable anchor; get outside within 30 min of waking; natural light (even overcast) far brighter than indoor; 5–15 min sun, 20 min overcast; morning walk; head up, shoulders back; sleep-ins described and the cost explained; rule – wake time does not move
   - ch19: morning wake time is the anchor the bedtime adjusts around — not the other way
   - ch22: morning is best time for intense exercise; cortisol channels into effort rather than creating new late-day spike
 canonical: Wake at a consistent time. Get outside within 30 minutes. Walk if possible. The morning light signal sets the body clock and starts the countdown to that evening's melatonin rise. This is the most powerful circadian input in the program.

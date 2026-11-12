@@ -6,7 +6,7 @@ level: core
 status: established-science
 appears_in:
   - ch03: CBN supplement experiment — an example of chasing the silver bullet; introduced the "no one thing" insight
-  - ch12: full chapter — three specific supplements: phosphatidylserine (PS), ashwagandha KSM-66, magnesium L-threonate; mechanism (cortisol modulation); dosing; timing; supplement form matters; tracker-validated; layer in one at a time
+  - ch12: full chapter — three specific supplements – phosphatidylserine (PS), ashwagandha KSM-66, magnesium L-threonate; mechanism (cortisol modulation); dosing; timing; supplement form matters; tracker-validated; layer in one at a time
 canonical: Three supplements the author identifies as evidence-backed and tracker-validated for improving sleep — primarily by supporting cortisol modulation in the evening. Phosphatidylserine, ashwagandha KSM-66, and magnesium L-threonate. Forms matter — generic versions of each are less effective.
 ---
 

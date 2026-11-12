@@ -977,3 +977,6 @@ Rewrote wiki/sleep-as-a-system.md and wiki/sleep-incorporated-metaphor.md from d
 
 ## [2026-11-12] derived | core-model.md brought up to date
 Marked as reflected in /book/; CEO action = setting the expectations; label-drift and in-the-moment rules added to Signals; three-jobs table updated (hold the night at 2am, Ch17 L40; sleep side Ch21 L15); open questions closed; rollout and sweep decisions added to the decision history. Still open (Ben): where the pub version and "rostering problem" hook live.
+
+## [2026-11-12] wiki | frontmatter fix on 17 pages
+Inner ": " in appears_in / canonical values broke YAML, so Obsidian could not read the properties. Replaced inner colons with " – " (14 pages) and single-quoted three values that began with a quotation (circadian-rhythm, compensatory-behaviours, incremental-habit-change). Wording unchanged. All 51 wiki pages now parse.

@@ -5,7 +5,7 @@ type: concept
 level: core
 status: original-idea
 appears_in:
-  - ch06: defined — brief (~30–40 min, the author's experience) period at the steepest part of melatonin's rise, centred on bedtime (NOT melatonin's peak, which comes 2–4 h after sleep onset); the 'separate circadian alertness mechanism' standing down is the end of the wake maintenance zone, when the sleep gate opens (N4 proposal, 2026-10-19); adenosine high, cortisol low, body temperature falling; missing it explained: the pull doesn't fade, but lying awake lets a thought land and recruit cortisol, which then wins (N4, 2026-10-19)
+  - ch06: defined — brief (~30–40 min, the author's experience) period at the steepest part of melatonin's rise, centred on bedtime (NOT melatonin's peak, which comes 2–4 h after sleep onset); the 'separate circadian alertness mechanism' standing down is the end of the wake maintenance zone, when the sleep gate opens (N4 proposal, 2026-10-19); adenosine high, cortisol low, body temperature falling; missing it explained – the pull doesn't fade, but lying awake lets a thought land and recruit cortisol, which then wins (N4, 2026-10-19)
   - ch07: cortisol elevation keeps the Wake Executives fighting; missing the window = exhausted and alert simultaneously
   - ch08: late dopamine from screens can push the sleeper past the window, leaving the mind something to work on
   - ch09: the window framed as the one moment when elevated cortisol might be low enough for sleep to win; missing it means lying awake long enough for the mind to find something to work on; the most common way is a scroll at the wrong moment

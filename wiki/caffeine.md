@@ -5,8 +5,8 @@ type: concept
 level: core
 status: established-science
 appears_in:
-  - ch05: clean example only — caffeine introduced as the clearest "activating signal": every cup is activating, a signal that lasts for hours; a cup late in the day reaches into the evening when the body needs to be calming. ch05 no longer carries the half-life / Huberman / blockade mechanism detail (now in ch14); the caffeine-grogginess-more-caffeine loop is described here as the author's pattern
-  - ch14: full habit + mechanism — author's 7-cup-a-day story; caffeine blocks adenosine receptors (masks signal, doesn't remove pressure); ~6-hour half-life compounding; afternoon coffee still active at bedtime; delay first coffee 60–90 min after waking (Huberman reference); cold turkey failure (depleted willpower); "five minutes earlier" method; at time of writing: 2 cups before 10am
+  - ch05: clean example only — caffeine introduced as the clearest "activating signal" – every cup is activating, a signal that lasts for hours; a cup late in the day reaches into the evening when the body needs to be calming. ch05 no longer carries the half-life / Huberman / blockade mechanism detail (now in ch14); the caffeine-grogginess-more-caffeine loop is described here as the author's pattern
+  - ch14: full habit + mechanism — author's 7-cup-a-day story; caffeine blocks adenosine receptors (masks signal, doesn't remove pressure); ~6-hour half-life compounding; afternoon coffee still active at bedtime; delay first coffee 60–90 min after waking (Huberman reference); cold turkey failure (depleted willpower); "five minutes earlier" method; at time of writing – 2 cups before 10am
 canonical: Caffeine blocks adenosine receptors, masking sleep pressure without clearing it. Its 6-hour half-life means afternoon intake leaves significant amounts active at bedtime. The solution is incremental reduction of timing (not cold turkey), ultimately pulling all intake to the morning.
 ---
 

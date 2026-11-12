@@ -5,7 +5,7 @@ type: concept
 level: core
 status: established-science
 appears_in:
-  - ch03: "a full 24-hour system"; time awake as important as time in bed
+  - ch03: '"a full 24-hour system"; time awake as important as time in bed'
   - ch04: hormones need to "rise and fall in a predictable rhythm throughout those 24 hours"
   - ch06: melatonin follows a rhythm set by consistent behaviour; irregular schedule disrupts it
   - ch09: the circadian "turning point" at 2–3am — system preparing for morning; melatonin production tailing off, adenosine spent; for someone who sleeps badly, with elevated cortisol, this is the opening that wakes them fully

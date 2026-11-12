@@ -6,7 +6,7 @@ level: core
 status: original-idea
 appears_in:
   - ch01: author used sugar, caffeine, napping, extended time in bed, and self-talk to push through daily impairment
-  - ch03: "tips" as the default toolkit most people who sleep badly reach for; works when sleep is already in reasonable shape, not when it has been poor for years
+  - ch03: '"tips" as the default toolkit most people who sleep badly reach for; works when sleep is already in reasonable shape, not when it has been poor for years'
   - ch05: caffeine as coping mechanism — blocking adenosine rather than fixing the underlying deficit
   - ch07: working at 2am, watching TV, checking phone — coping behaviours that worsen cortisol at night
   - ch15: alcohol to wind down — helps sleep onset while worsening sleep quality

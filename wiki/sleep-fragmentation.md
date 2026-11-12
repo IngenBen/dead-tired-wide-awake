@@ -6,7 +6,7 @@ level: core
 status: established-science
 appears_in:
   - ch01: author woke multiple times every night; returning to sleep took a long time when it came at all
-  - ch09: mechanism explained for the most common wake-up time (2–3am): circadian turning point, melatonin declining, adenosine spent after front-loaded deep sleep, cortisol finding its opening — see [[Waking at 2–3am]]
+  - ch09: mechanism explained for the most common wake-up time (2–3am) – circadian turning point, melatonin declining, adenosine spent after front-loaded deep sleep, cortisol finding its opening — see [[Waking at 2–3am]]
 canonical: A sleep pattern characterised by frequent awakenings throughout the night, preventing consolidation into restorative sleep architecture regardless of total hours in bed.
 ---
 

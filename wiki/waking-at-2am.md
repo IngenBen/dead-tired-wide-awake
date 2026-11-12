@@ -6,7 +6,7 @@ level: core
 status: original-idea
 appears_in:
   - ch06: weak overnight melatonin hold in people who sleep badly (less to carry through to morning); melatonin production declining after peak is when the fragile hold weakens
-  - ch09: full mechanistic explanation — circadian system turning the night around; melatonin production tailing off after peak; adenosine spent (front-loaded into first half); cortisol only just beginning to climb; for someone who sleeps badly, this convergence is the opening: Wake Executive overpowers fading Sleep Executives; usually sleep is done for the night
+  - ch09: full mechanistic explanation — circadian system turning the night around; melatonin production tailing off after peak; adenosine spent (front-loaded into first half); cortisol only just beginning to climb; for someone who sleeps badly, this convergence is the opening – Wake Executive overpowers fading Sleep Executives; usually sleep is done for the night
 canonical: The most common middle-of-night waking time corresponds to the circadian turning point where melatonin production declines, adenosine pressure has mostly been spent in the first half of the night, and cortisol begins its pre-dawn rise. For someone who sleeps well this passes unnoticed; for someone who has slept badly for years with elevated cortisol, it ends the night.
 ---
 
