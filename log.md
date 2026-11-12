@@ -965,3 +965,6 @@ CriticMarkup: feed the activating side -> call the Wake Executives back in; calm
 CriticMarkup: added ", in the moment," so L25 rejects the single in-the-moment signal, not signals. Ch16 L11, Ch20 L29-33/L45/L53/L121 checked: no change. Pending review.
 
 ## [2026-11-12] derived | continuation prompt: core model sweep -> derived/continuation-prompt-core-model-sweep.md (whole-book concept sweep against core-model.md rules; output to audit/core-model-sweep.md). Rollout decisions from this session recorded in it pending the core-model.md update.
+
+## [2026-11-12] audit | core model sweep -> audit/core-model-sweep.md
+Whole-book sweep of the core-model vocabulary (company, shifts, signals, training, fitness, retired terms) against derived/core-model.md and the 2026-11-12 rollout decisions. Read from e92af8d (rollout markup accepted). 396 chapter rows: 270 Yes, 3 No (Ch18 L45 labels, Ch16 L31 aligned, Ch02 L41 alignment), 7 Borderline, 116 Literal; 103 endnote rows, 1 Borderline (L885 follows Ch20 L51). Main pattern: label drift (side / the calm / activated state). No /book/ markup.
