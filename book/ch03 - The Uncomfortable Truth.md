@@ -35,7 +35,7 @@ Looking back at my old way of thinking, it was like I'd been drinking, smoking, 
 
 What kept me searching long after I should have stopped were the stories: a friend of a friend, a stranger online, someone who'd made one simple change and got a huge win.
 
-And as we saw in the last chapter, a single change can work, but only on a foundation that's already there. If your sleep is already in reasonable shape, one well-chosen adjustment might genuinely be enough. Fix the timing of your last coffee. Cool the bedroom down. Cut the screen off earlier.
+And as we saw in the last chapter, a single change can work, but only on a foundation that's already there. If your sleep is already in reasonable shape, one well-chosen adjustment might genuinely be enough. {~~Fix~>Move~~} the timing of your last coffee. Cool the bedroom down. Cut the screen off earlier.
 
 However, if you've been running on poor quality, fragmented sleep for years, if you're tired but wired most nights, if you've tried a dozen things and none of them stuck, one adjustment won't be enough. You need several things working together, every day. Again, a bit like getting fit.
 

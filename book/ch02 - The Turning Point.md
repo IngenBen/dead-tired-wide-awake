@@ -38,7 +38,7 @@ I was beginning to see how much more the daytime mattered.
 
 It reframed everything. Every tip I'd tried, every supplement, every bedtime routine. None of it was wrong exactly. Some of it was even well-supported by science.
 
-Some people can try 'one thing' and swear by it. Most likely, they had a solid foundation. The tip worked because most of the system was already working. For me, the whole system was out of alignment. I spent all day doing the wrong things, so trying their 'one thing' was never going to work.
+Some people can try 'one thing' and swear by it. Most likely, they had a solid foundation. The tip worked because most of the system was already working. For me, the whole system was {~~out of alignment~>working against itself~~}. I spent all day doing the wrong things, so trying their 'one thing' was never going to work.
 
 And if the day was where the problem existed, that's where the work had to be.
 

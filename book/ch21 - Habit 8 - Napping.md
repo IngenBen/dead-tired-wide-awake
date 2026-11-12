@@ -12,7 +12,7 @@ What I didn't understand was that the naps I did manage were part of the problem
 
 The standard advice on napping is reasonable. Keep it short: twenty minutes at most. Don't nap within seven to eight hours of your bedtime. And if you genuinely need one for safety (if you're about to get behind the wheel and you're not sure you should) then nap. That's not a habit question. That's a judgement call, and safety wins.
 
-The reason for the rules comes down to adenosine: the sleep pressure that's been building since you woke up. Napping clears some of that out. A short nap at the right time eases the worst of it without doing much damage. A long nap, or one too close to bedtime, and you arrive at your sleep window with the pressure already partially reduced. The Sleep Executives don't have enough to work with. The timing shifts. And that night you're wide awake when you shouldn't be.
+The reason for the rules comes down to adenosine: the sleep pressure that's been building since you woke up. Napping clears some of that out. A short nap at the right time eases the worst of it without doing much damage. A long nap, or one too close to bedtime, {~~and you~>calls the Sleep Executives in early. You~~} arrive at your sleep window with the pressure already partially reduced. {~~The Sleep Executives~>They~~} don't have enough to work with. The timing shifts. And that night you're wide awake when you shouldn't be.
 
 Naps are a tool, not a habit. Something to reach for when you need to get through the next few hours. Not a way to recover what last night didn't give you.
 

@@ -42,7 +42,7 @@ It is about the following evening.
 
 The signal you send at six or seven in the morning (consistent, bright light at the same time each day) sets the timer for when the Sleep Executives need to be ready to take over. Everything that follows (the cortisol clearing, the adenosine building, the melatonin rising) runs from that fixed starting point.
 
-The morning habit you're building is setting your clock. This is the one time you want the activating side switched on hard, on purpose, early. The same light that wakes you decides when calm takes over that night.
+The morning habit you're building is setting your clock. This is the one time you want the activating {~~side~>system~~} switched on hard, on purpose, early. The same light that wakes you decides when {~~calm~>the calming system~~} takes over that night.
 
 When the clock is set well, the rhythm holds. When the rhythm holds, sleep becomes something that arrives rather than something you chase.
 

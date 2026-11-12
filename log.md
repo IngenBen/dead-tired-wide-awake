@@ -968,3 +968,6 @@ CriticMarkup: added ", in the moment," so L25 rejects the single in-the-moment s
 
 ## [2026-11-12] audit | core model sweep -> audit/core-model-sweep.md
 Whole-book sweep of the core-model vocabulary (company, shifts, signals, training, fitness, retired terms) against derived/core-model.md and the 2026-11-12 rollout decisions. Read from e92af8d (rollout markup accepted). 396 chapter rows: 270 Yes, 3 No (Ch18 L45 labels, Ch16 L31 aligned, Ch02 L41 alignment), 7 Borderline, 116 Literal; 103 endnote rows, 1 Borderline (L885 follows Ch20 L51). Main pattern: label drift (side / the calm / activated state). No /book/ markup.
+
+## [2026-11-12] edit | core model sweep fixes (CriticMarkup, pending review)
+Items 1-11 from audit/core-model-sweep.md agreed with Ben in chat, 18 changes: Ch02 L41 alignment; Ch03 L38 Fix->Move; Ch04 L49 typo, L51 consultant line; Ch06 L25 align + window sentence, L29 other side; Ch16 L31 aligned; Ch17 L60 repetitions; Ch18 L45 labels; Ch20 L3 phase intro, L51 activated state / forgotten; Ch21 L15 Sleep Executives called in early (new, third job sleep side); endnotes L885 heading. Item 12 agreed: add label-drift rule and Ch21 L15 pointer to derived/core-model.md at the wiki stage. Checkpoint 7a41d5a.

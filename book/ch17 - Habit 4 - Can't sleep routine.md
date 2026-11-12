@@ -57,7 +57,7 @@ In the early days of building this habit, I would watch for hours, four, sometim
 
 I still use it, though these days I rarely need it. And when I do, I rarely make it through a single episode.
 
-The routine works on two timescales: tonight it breaks the spiral, and over weeks it rewrites the association: bed equals sleep. The first few nights may feel worse, not better; the new pattern hasn't had enough repetitions yet. That's expected.
+The routine works on two timescales: tonight it breaks the spiral, and over weeks it rewrites the association: bed equals sleep. The first few nights may feel worse, not better; the new pattern hasn't {~~had enough repetitions~>been repeated enough~~} yet. That's expected.
 
 So the next time you're lying awake at 2am, you'll have something to do, and even when it doesn't get you straight back to sleep, it's still the better option.
 
