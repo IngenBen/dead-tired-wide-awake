@@ -948,3 +948,6 @@ CriticMarkup added to Ch04 from the core model (derived/core-model.md): L7 cultu
 ## [2026-11-12] edit | ch03 core model markup
 CriticMarkup added to Ch03: fitness reduced to illustration of "not overnight". L26 illness/injury analogy cut, typo; L30 night's and question mark; L32 rewritten so the new question is answered first and fitness comes last ("A lot like getting fit."), theory/research lead-in and "over weeks" removed; L34 "Looking back at my old way of thinking"; L40 "train for it" -> several things working together, every day; L42 school list cut (L44 adults line kept). Pending Ben's review. Checkpoint commit 7cb89d5.
 - Same pass: typo fixes L48, L54, L60 (x2), L64 (x2), L66.
+
+## [2026-11-12] edit | ch10 L11-13 core model markup
+Old L13 markup rejected by Ben. New CriticMarkup: activated setting -> day shift; calming system -> the handover bringing the night shift on; settings -> shifts; weak calming system -> handover that never happens; "Both can be trained" + through the signals you send every day. L15 unchanged. Checkpoint commit before pass. Pending review.
