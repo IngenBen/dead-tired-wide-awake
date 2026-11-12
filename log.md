@@ -980,3 +980,6 @@ Marked as reflected in /book/; CEO action = setting the expectations; label-drif
 
 ## [2026-11-12] wiki | frontmatter fix on 17 pages
 Inner ": " in appears_in / canonical values broke YAML, so Obsidian could not read the properties. Replaced inner colons with " – " (14 pages) and single-quoted three values that began with a quotation (circadian-rhythm, compensatory-behaviours, incremental-habit-change). Wording unchanged. All 51 wiki pages now parse.
+
+## [2026-11-12] derived | core-model.md: pub version placement decided
+Ben: the pub version and the "rostering problem" hook are knowledge-base explanations, not book text; kept in core-model.md for later QUERY/content work. Open question closed.

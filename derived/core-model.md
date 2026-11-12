@@ -27,6 +27,8 @@ Four questions, three concepts. Each concept answers a different question.
 
 ## Pub version (two layers)
 
+**Purpose:** a plain explanation of the model for the knowledge base, not book text. Not for use in /book/. It's the reference for later QUERY work (blog posts, social replies, video outlines, app explainers), where outputs should sound like the book without quoting it. The short hook below has the same status.
+
 The test: what would someone say about the book to a friend at the pub? Layer 1 has to stand alone. Layer 2 is the natural answer to the follow-up question. It doesn't need to match the book's wording, but should sound like it.
 
 **Layer 1 — the explainer**
@@ -37,7 +39,7 @@ The test: what would someone say about the book to a friend at the pub? Layer 1 
 
 > "You build habits that send them regular signals, either activating or calming. Morning light, coffee early, exercise, that clocks the day shift on. Dim lights, winding down, meditation, that's the handover. They don't respond straight away, but keep the signals coming every day and they learn."
 
-Short hook (for blurbs or openers, not yet placed): "Bad sleep isn't a sleep problem. It's a rostering problem: four good executives, turning up at the wrong times."
+Short hook (knowledge-base use, for later content openers; not for the book): "Bad sleep isn't a sleep problem. It's a rostering problem: four good executives, turning up at the wrong times."
 
 Wording notes from the drafting:
 - "No one thing" is the book's phrase (Ch03 L34, L70). Not "whip" (coercive) or "tool" (invites the in-the-moment fix).
@@ -111,7 +113,7 @@ The executives are good employees. They work plenty of overtime, but don't alway
 
 ## Open questions
 
-None on the book side. All six from the first draft of this file were answered in the 2026-11-12 rollout (see decision history). Still to decide (Ben): where the pub version and the "rostering problem" hook live (back cover, intro, `derived/content-ideas.md`).
+None. All six from the first draft of this file were answered in the 2026-11-12 rollout (see decision history).
 
 ---
 
@@ -122,3 +124,4 @@ None on the book side. All six from the first draft of this file were answered i
 - **2026-11-12**: this model. The company is the single frame and now carries the action (shifts). Signals are the lever, the answer to "how do I do that?". Training is the change process. Calming system = the handover.
 - **2026-11-12, rollout** (`derived/continuation-prompt-core-model.md`; markup accepted e92af8d). Answered the open questions: Ch04 L7 the CEO *sets the expectations* (clock on, clock off, clean handover), signals not named until L79; Ch04 L77 calming system = "the day shift hands over cleanly to the night shift", third job = "a CEO who stops calling the wrong executives in at the wrong times"; Ch04 L67 good staff "working hard" (not "overtime", which only fits the wake side); Ch03 fitness carries only "not overnight", answer first and fitness last at L32 ("A lot like getting fit."), L40 "Again, a bit like getting fit.", "over weeks" avoided early; Ch20 muscle image kept as the biology chapter; Ch10 L11–13 rebuilt around day shift, handover and daily signals (old L13 markup rejected); Ch17 L40 at 2am the calming system holds the night ("the night shift isn't over yet"); Ch20 L25 rejects the single signal in the moment, not signals. Knock-on list resolved: Ch04 L11/L65, Ch05 L55, Ch11 L46 changed; Ch07 L53, Ch16 L11, Ch20 L29–33/L45/L53/L113–125, Ch21 L31, Ch22 L67, Ch26 L9, L35 checked and left.
 - **2026-11-12, sweep** (`audit/core-model-sweep.md`; fixes accepted 7f63a63). 396 chapter mentions checked: 3 No, 7 Borderline, all fixed. Last "align" uses removed (Ch02 L41, Ch06 L25, Ch16 L31); label drift fixed (Ch06 L29, Ch18 L45, Ch20 L3, L51, endnote L885); Ch04 L51 consultant now "night shift starts now"; Ch17 L60 "repetitions" avoided; Ch03 L38 "Fix" → "Move". Third job now shown on the sleep side at Ch21 L15. Label-drift rule added above.
+- **2026-11-12, pub version placement** (Ben): the pub version and the short hook are knowledge-base explanations only. They won't go in the book; they're kept here for the later wiki/QUERY phase (blog posts and similar).
