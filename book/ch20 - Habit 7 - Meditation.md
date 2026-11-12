@@ -22,7 +22,7 @@ I had been thinking about meditation as a calming tool. Something you reach for 
 
 That's not what it is.
 
-There's a more careful version of the same idea, and it's one of the most common explanations you'll hear: that you calm down by signalling to your body that it's not under threat. Reassure the system, and it stands down. For some people, on some nights, I'm sure that's exactly right. It just never covered all of mine.
+There's a more careful version of the same idea, and it's one of the most common explanations you'll hear: that you calm down by signalling to your body, in the moment, that it's not under threat. Reassure the system, and it stands down. For some people, on some nights, I'm sure that's exactly right. It just never covered all of mine.
 
 Plenty of nights I wasn't registering a threat. I was wide awake and busy: planning, solving, improving something. You'll remember from Chapter 7 that the nervous system doesn't separate threat from productivity; both feel urgent, and both get cortisol. Telling myself I was safe did nothing for those nights, because there was no threat to talk myself out of.
 

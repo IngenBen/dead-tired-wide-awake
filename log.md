@@ -951,3 +951,17 @@ CriticMarkup added to Ch03: fitness reduced to illustration of "not overnight". 
 
 ## [2026-11-12] edit | ch10 L11-13 core model markup
 Old L13 markup rejected by Ben. New CriticMarkup: activated setting -> day shift; calming system -> the handover bringing the night shift on; settings -> shifts; weak calming system -> handover that never happens; "Both can be trained" + through the signals you send every day. L15 unchanged. Checkpoint commit before pass. Pending review.
+
+## [2026-11-12] edit | ch05 L55 typo
+CriticMarkup: "Every cup is sends" -> remove "is". Signal wording kept (already consistent with the core model). Pending review.
+
+## [2026-11-12] edit | ch11 L46 label
+CriticMarkup: "activated and calm" -> "activating and calming" (book vocabulary, matches Ch20 L45). Pending review.
+
+## [2026-11-12] edit | ch17 L40 core model
+CriticMarkup: feed the activating side -> call the Wake Executives back in; calming side -> calming system gets the message through: the night shift isn't over yet (2am = holding the night, mirrors Ch07 L79). Pending review.
+
+## [2026-11-12] edit | ch20 L25 in the moment
+CriticMarkup: added ", in the moment," so L25 rejects the single in-the-moment signal, not signals. Ch16 L11, Ch20 L29-33/L45/L53/L121 checked: no change. Pending review.
+
+## [2026-11-12] derived | continuation prompt: core model sweep -> derived/continuation-prompt-core-model-sweep.md (whole-book concept sweep against core-model.md rules; output to audit/core-model-sweep.md). Rollout decisions from this session recorded in it pending the core-model.md update.

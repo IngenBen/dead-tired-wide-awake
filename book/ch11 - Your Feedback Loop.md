@@ -43,7 +43,7 @@ The exact numbers will vary night to night and the trackers aren't perfectly acc
 
 This is also where your habit changes show up once the hours are steady. Adjusting when you have your last coffee, your last drink, how close to bed you exercise, these register in your quality metrics even if you don't always feel the difference.
 
-The third layer (heart rate, heart rate variability, recovery scores) is for later. Heart rate variability (HRV) in particular is worth understanding: it reflects how well your nervous system moves between its two modes, activated and calm (the names in this book, not the scientific names). A higher variability generally means better recovery and a more resilient system. But this is a refinement metric, not a starting point.
+The third layer (heart rate, heart rate variability, recovery scores) is for later. Heart rate variability (HRV) in particular is worth understanding: it reflects how well your nervous system moves between its two modes, activating and calming (the names in this book, not the scientific names). A higher variability generally means better recovery and a more resilient system. But this is a refinement metric, not a starting point.
 
 **What trackers actually get right**
 

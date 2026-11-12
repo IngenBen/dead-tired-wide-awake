@@ -37,7 +37,7 @@ Getting up does something lying there can't: it removes the pressure to sleep. I
 
 Two established therapies land on the same instruction. CBT-I (cognitive behavioural therapy for insomnia) makes "don't lie in bed awake; get up" a central recommendation. ACT-I, its acceptance-based cousin, adds the why: acceptance of wakefulness, because the struggle generates more arousal than the wakefulness itself. (I only worked out the match after learning it the hard way.)
 
-The routine is a practical version of that idea. When I can't sleep, I do this. A protocol instead of a struggle. In the language of the program, you're refusing to feed the activating side (no frustration, no dopamine) so the calming side can come back on its own.
+The routine is a practical version of that idea. When I can't sleep, I do this. A protocol instead of a struggle. In the language of the program, you're refusing to call the Wake Executives back in (no frustration, no dopamine), so the calming system can get the message through: the night shift isn't over yet.
 
 **Getting the engagement level right**
 

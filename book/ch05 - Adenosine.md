@@ -52,7 +52,7 @@ For me, the loop looked like this: tired, reach for coffee, suppresses deep slee
 
 The way out of that loop isn't forcing it. It starts with understanding what the thing you're reaching for is actually doing.
 
-Caffeine is the clearest example. Every cup is sends an activating signal. A signal that lasts for hours. A cup late in the day activates you well into the evening, exactly when your body needs to be calming.
+Caffeine is the clearest example. Every cup sends an activating signal. A signal that lasts for hours. A cup late in the day activates you well into the evening, exactly when your body needs to be calming.
 
 I did eventually reduce my caffeine. How that actually worked, what stuck when everything else hadn't, is Chapter 14. But understanding why it mattered, came first.
 
