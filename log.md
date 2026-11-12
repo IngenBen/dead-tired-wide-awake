@@ -944,3 +944,7 @@ Book is now edited with CriticMarkup tracked changes (reviewed in Obsidian with 
 
 ## [2026-11-12] edit | ch04 core model markup
 CriticMarkup added to Ch04 from the core model (derived/core-model.md): L7 culture -> set the expectations (clock on, clock off, clean handover); L11 culture -> own job and own shift; L65 last sentence cut; new good-staff paragraph before "Not broken, just not well trained."; L75 calming system = handover, CEO stops calling the wrong executives in at the wrong times; signals introduced in a new paragraph (sentences moved, not reworded). Typos at L61 and L69. Pending Ben's review. Pre-edit state was already committed at 90d29a3.
+
+## [2026-11-12] edit | ch03 core model markup
+CriticMarkup added to Ch03: fitness reduced to illustration of "not overnight". L26 illness/injury analogy cut, typo; L30 night's and question mark; L32 rewritten so the new question is answered first and fitness comes last ("A lot like getting fit."), theory/research lead-in and "over weeks" removed; L34 "Looking back at my old way of thinking"; L40 "train for it" -> several things working together, every day; L42 school list cut (L44 adults line kept). Pending Ben's review. Checkpoint commit 7cb89d5.
+- Same pass: typo fixes L48, L54, L60 (x2), L64 (x2), L66.
