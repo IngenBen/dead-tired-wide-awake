@@ -1,6 +1,6 @@
 # Phase 4 – Build your calming system
 
-The focus of this phase is to train your nervous system: {~~building the calm~>strengthening the calming system~~} and tempering the {~~activation~>activating one~~}. Three habits, different in form, all working the same underlying system.
+The focus of this phase is to train your nervous system: strengthening the calming system and tempering the activating one. Three habits, different in form, all working the same underlying system.
 
 # Chapter 20 - Habit 7: Meditation
 
@@ -48,7 +48,7 @@ The first: a sympathetic dominant state, your activating system. It's often call
 
 The second: a parasympathetic dominant state, your calming system. It's often referred to as rest and digest. Cortisol dropping, the body doing the maintenance work. Shifting you out of go-mode. It might be doing nothing, or it might be doing things just not at 100 miles an hour. This is the relaxed state. If you can remember what that feels like.
 
-Most people with persistent sleep problems spend too much time {--in the activated state: --}stuck in go-mode, always on alert. The calming system rarely gets a turn, so it weakens from lack of use until it can't bring them back. The two are supposed to take turns: one speaks, the other listens, then they swap. Instead, the activating system has grown so loud it never stops talking. And the calming system {~~has forgotten how to speak up for itself~>can barely get a word in~~}.
+Most people with persistent sleep problems spend too much time stuck in go-mode, always on alert. The calming system rarely gets a turn, so it weakens from lack of use until it can't bring them back. The two are supposed to take turns: one speaks, the other listens, then they swap. Instead, the activating system has grown so loud it never stops talking. And the calming system can barely get a word in.
 
 Meditation, done consistently, builds that muscle. By gradually strengthening the calming system, you are teaching it to hold its ground, and the activating system to back off. Once it's strong enough to take its turn again, you will have it when you need it, and reaching for it in the middle of the night will start to work.
 

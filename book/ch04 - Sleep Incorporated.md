@@ -46,9 +46,9 @@ Here's what that looks like. This graph shows a lot we haven't talked about yet.
 
 ![[image-hormones-aligned.gif]]
 
-Once I had that picture in my head, everything else really started to fall {~~in to~>into~~} place. That hunch from the drive - daytime mattered more than the night - finally had a structure behind it. The habits that would help me sleep weren't just bedtime habits. Many of them were daytime ones. Sleep was downstream of everything else.
+Once I had that picture in my head, everything else really started to fall into place. That hunch from the drive - daytime mattered more than the night - finally had a structure behind it. The habits that would help me sleep weren't just bedtime habits. Many of them were daytime ones. Sleep was downstream of everything else.
 
-I also started to see why all the quick fixes I'd been trying were so unreliable. A sleeping pill, for instance, is like an external consultant. Coming from the outside, bypassing the executives and the managers, and delivering a message straight to the workers. "Forget the orders from the top… {~~clock off and go to sleep~>night shift starts now~~}."
+I also started to see why all the quick fixes I'd been trying were so unreliable. A sleeping pill, for instance, is like an external consultant. Coming from the outside, bypassing the executives and the managers, and delivering a message straight to the workers. "Forget the orders from the top… night shift starts now."
 
 Sometimes they worked, sometimes they didn't. But they never fixed the root problem. The executives still weren't working together, and the system was still screaming top-down: wake up.
 

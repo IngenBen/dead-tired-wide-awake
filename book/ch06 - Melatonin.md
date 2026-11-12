@@ -22,11 +22,11 @@ But the signal doesn't force sleep. It enables it. It moves you toward the condi
 
 Those conditions converge in a narrow window: melatonin rising steeply, adenosine high from a full day of wakefulness, cortisol low, core body temperature falling, and the body clock's evening burst of alertness finally standing down. Researchers call that moment the sleep gate opening.
 
-{~~When they align~>When they all arrive together~~}, you feel the strongest pull toward sleep. {~~That's what I was feeling as my 30 - 40 minute sleep window.~>That's the 30–40 minute window I was feeling.~~} 
+When they all arrive together, you feel the strongest pull toward sleep. That's the 30–40 minute window I was feeling. 
 
 The timing is surprisingly regular. Melatonin starts to rise about two hours before your usual bedtime, and around then the gate opens and sleep becomes possible. Over the next couple of hours melatonin climbs at its fastest, and that steep stretch lands right around bedtime. That's where my window sat. Then the climb slows, and melatonin peaks in the middle of the night, a few hours after you've fallen asleep.
 
-Melatonin continues to rise afterward, but more slowly. So does adenosine if you're still awake. The pull to sleep doesn't go away. What changes is {~~the other side~>the Wake Executives' chance to get back to work~~}. The longer you lie there awake, the more room there is for a thought to land: something from today, something for tomorrow, or just the fact that you're still awake. Your mind picks it up and starts working on it, and that's what brings cortisol back in. If your Wake Executives never fully stood down this evening, it doesn't take much. At this point, with the Wake Executives still at their desks and cortisol behind them, you've missed the window. You're exhausted but wide awake.
+Melatonin continues to rise afterward, but more slowly. So does adenosine if you're still awake. The pull to sleep doesn't go away. What changes is the Wake Executives' chance to get back to work. The longer you lie there awake, the more room there is for a thought to land: something from today, something for tomorrow, or just the fact that you're still awake. Your mind picks it up and starts working on it, and that's what brings cortisol back in. If your Wake Executives never fully stood down this evening, it doesn't take much. At this point, with the Wake Executives still at their desks and cortisol behind them, you've missed the window. You're exhausted but wide awake.
 
 ![[image-melatonin-normal.gif]]
 

@@ -882,7 +882,7 @@ Yes. Regular slow-breathing practice makes the body's calming responses stronger
 Lehrer PM, Gevirtz R 2014, *Front Psychol* 5:756. https://doi.org/10.3389/fpsyg.2014.00756 (review; with twice-daily home practice over about three months, the resting heart-rate reflex (baroreflex) strengthened)
 Rusch HL et al. 2019, *Ann N Y Acad Sci* 1445:5–16. https://doi.org/10.1111/nyas.13996 (meta-analysis of 18 randomised trials, 1,654 people; improved sleep quality in people with sleep problems compared with matched controls; the comparison with established sleep treatments rests on weaker evidence)
 
-**Are poor sleepers stuck in {~~the activated state~>go-mode~~}?**
+**Are poor sleepers stuck in go-mode?**
 
 Largely, yes. Insomnia is understood as a state of heightened arousal. The evidence and sources are in Chapter 17, in the note "Does lying awake frustrated keep you awake?"
 

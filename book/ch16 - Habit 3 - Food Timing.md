@@ -28,7 +28,7 @@ I'll eat either. If you want a recommendation, protein wins: the safer choice if
 
 What matters more than what you eat is the size: just enough to take the edge off and get you to sleep. Not a meal, only a small bridge. Neither too full nor too hungry.
 
-Meal timing fits where you'd expect. Light sets the clock. Sleep timing reinforces it. Food timing keeps everything {~~aligned~>on schedule~~}.
+Meal timing fits where you'd expect. Light sets the clock. Sleep timing reinforces it. Food timing keeps everything on schedule.
 
 Your starting point is simple: finish your last substantial meal three hours before bed, most nights. Snack only if you need to. Keep it small.
 
