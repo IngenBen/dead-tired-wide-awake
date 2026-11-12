@@ -19,6 +19,6 @@ The "calm-good vs hyped-good" distinction is the book's key framing: wholesome c
 
 The scrolling feed is engineered around unpredictability — the key dopamine trigger — making it structurally different from most other evening activities.
 
-[[Four executives]] | [[Hormone misalignment]] | [[Social media and sleep]] | [[Can't-sleep routine]] | [[Sleep window]] | [[Cortisol]]
+[[Four executives]] | [[Working against each other]] | [[Social media and sleep]] | [[Can't-sleep routine]] | [[Sleep window]] | [[Cortisol]]
 
 notes: 2026-11-09: canonical no longer frames cortisol as a threat response (Ch07 calls that 'too narrow'). Proposed (audit/ch07-ch08-excitement-busy-mind-proposed-2026-11-09.md): Ch08 'survive' → 'act'; new Ch08 paragraph making excitement (looking forward to tomorrow) a dopamine-driven 'version of the busy mind: not urgent, just eager'; Ch07 cortisol busy mind becomes 'a very common version… though not the only one'. Add ch08 nuance to appears_in once merged. New contested endnote 'Can looking forward to something keep you awake?' (mostly animal evidence; book's reasoning).

@@ -2,7 +2,7 @@
 
 Living reference for the book's core concepts and how they fit together. Update in place (no dates in the name).
 
-Agreed 2026-11-12 in chat. **Not yet reflected in /book/.** The book stays the source of truth for what it currently says; this file records the intended direction that edits should move it towards. When the book catches up, rewrite `wiki/sleep-as-a-system.md` (thesis page) and `wiki/sleep-incorporated-metaphor.md` from it.
+Agreed 2026-11-12 in chat. **Now reflected in /book/** (rollout accepted e92af8d; sweep fixes accepted 7f63a63; sweep in `audit/core-model-sweep.md`). The book stays the source of truth; this file explains the model behind it. `wiki/sleep-as-a-system.md` and `wiki/sleep-incorporated-metaphor.md` were rewritten from it on 2026-11-12.
 
 ---
 
@@ -65,7 +65,7 @@ The company is the single frame. Jobs only the company does in the book (review 
 11. **Somewhere to put the exceptions**: manager-level problems such as menopause (Ch04 note 2; Ch25 appetite managers).
 12. **Personification, labels and structure**: Sleep/Wake Executives as working labels; Part 2 "meet the executives"; the title.
 
-**The CEO's action is setting the shifts**, not "shaping the culture" (Ch04 L7, abstract and not actionable). The CEO can't do the executives' jobs, but can get them clocking on and off at the right times.
+**The CEO's action is setting the expectations**: when the staff clock on, when they clock off, and a clean handover from the day shift to the night shift (Ch04 L7). Not "shaping the culture" (abstract and not actionable). The CEO can't do the executives' jobs. Signals are not named at L7; they arrive at Ch04 L79.
 
 Considered and rejected (2026-11-12): removing the company and keeping only fitness and signals. Only the company does 2, 3, 6, 7 and 11, and the program chapters rely on its shift vocabulary.
 
@@ -75,6 +75,8 @@ Considered and rejected (2026-11-12): removing the company and keeping only fitn
 - **Habits send signals.** In plain-English summaries lead with the habit: "you build habits that send regular signals".
 - **"Signal" implies indirect and not immediate.** You send word, you don't do the work, and the company responds in its own time. One signal changes little, which is why Ch20 L25 rejects calming yourself in the moment.
 - **Activating and calming stay as the book's vocabulary**; clock on and handover are the plain-English version. Never run them as two competing models.
+- **The labels don't drift.** In descriptive prose the two systems are "the activating system" and "the calming system" (or the company version: day shift / night shift, the handover). Not "side", "the calm", "the activation", "calm takes over" or "the activated state". Plain adjectives are fine ("still activated", "go-mode", "you're activated") as long as they describe a state and don't stand in for a system's name. (2026-11-12 sweep: Ch06 L29, Ch18 L45, Ch20 L3, L51, endnote L885.)
+- **A rejection of signalling is a rejection of the single in-the-moment signal** (Ch20 L25), not of signals.
 - Already used in this sense: Ch07 L79, Ch18 L37–43, Ch19 L3 and L9, Ch20 L61, Ch23 L5.
 
 ### Training — the change process
@@ -94,12 +96,12 @@ The three jobs are what the signals achieve, not a second list beside them.
 | Job (book wording) | Company version | Covers |
 |---|---|---|
 | Train the body clock | **The roster**: each executive clocks on and off at the right times, the same every day | All four executives. Morning light starts the day shift and the countdown to the night shift (Ch18) |
-| Build the calming system | **A clean handover**: the wake side actually clocks off so the sleep side can take over and hold the night | The evening handover and 2am (Ch09 L72). Payoff: Ch20 L121 "It will show up at two in the morning." |
-| Remove the disruptors | **Calling the wrong executives in at the wrong time** | Both sides: late coffee, phone, sugar call the wake side back in; long or late naps and sleep-ins disturb the sleep side (Ch21, Ch18 L39) |
+| Build the calming system | **A clean handover**: the wake side actually clocks off so the sleep side can take over and hold the night | The evening handover and 2am (Ch09 L72). At 2am the handover has already happened; the job is to hold the night (Ch17 L40 "the night shift isn't over yet", mirroring Ch07 L79). Payoff: Ch20 L121 "It will show up at two in the morning." |
+| Remove the disruptors | **Calling the wrong executives in at the wrong time** | Both sides: late coffee, phone, sugar call the wake side back in; long or late naps and sleep-ins disturb the sleep side (Ch21 L15 "calls the Sleep Executives in early"; Ch18 L39) |
 
 **Clocking on and off covers all four executives.** "Going home" covers only the wake side (cortisol and dopamine), so don't narrow the action to it. (Correction made 2026-11-12.)
 
-Ch04 L75 already has the right shape: "so the executives know when to clock on and when to clock off. A strong calming system, so they actually do."
+Ch04 L77 carries the three jobs in company terms: the executives know when to clock on and off; the day shift hands over cleanly to the night shift; a CEO who stops calling the wrong executives in at the wrong times. Ch04 L79 then names the signals and the training.
 
 ### Agreed framing extension
 
@@ -107,14 +109,9 @@ The executives are good employees. They work plenty of overtime, but don't alway
 
 ---
 
-## Open questions (not yet drafted)
+## Open questions
 
-1. **Ch04 L7**: "shape the culture" → setting their shifts / hours.
-2. **Ch04 L75**: "a CEO who stops getting in their way" → something about calling the wrong executives in at the wrong time.
-3. **Ch03 L26, L32–44**: the fitness passage now only carries "not overnight". Trim harder than previously planned?
-4. **Ch20 muscle image** vs workplace training: probably fine as the biology chapter. Check it doesn't clash.
-5. **Ch10 L11–13**: rethink around shifts and the two signals. The pending L13 markup is best rejected.
-6. Knock-on list in `derived/continuation-prompt-signals-reps-model.md` still largely applies (Ch04 L11/L65, Ch05 L55, Ch07 L53, Ch11 L46, Ch16 L11, Ch17 L40, Ch20 L45, Ch22 L67).
+None on the book side. All six from the first draft of this file were answered in the 2026-11-12 rollout (see decision history). Still to decide (Ben): where the pub version and the "rostering problem" hook live (back cover, intro, `derived/content-ideas.md`).
 
 ---
 
@@ -123,3 +120,5 @@ The executives are good employees. They work plenty of overtime, but don't alway
 - **2026-09-24, thesis pass** (`derived/continuation-prompt-thesis-fitness.md`): fitness promoted to the book's thesis; three layers (company / activating-calming / sleep fit). **Superseded 2026-11-12**: fitness is an illustration of the change process only. Still standing: the one-liner "Not broken, just not well trained"; *broken* describes the sleep, never the person; *fix* is the language of the wrong approach; "sleep fit" not coined; labels describe the sleep, not the person.
 - **2026-11-11**: "aligned / misalignment" retired as a concept, replaced with working together / against each other (**stands**). "Three signals" retired (**stands**; two signals only). Company-culture framing introduced at Ch04 L7 (**superseded** as the CEO's action by setting the shifts). Signals + reps model (`derived/continuation-prompt-signals-reps-model.md`) **partly superseded**: two signals kept; reps no longer the bridge; fitness no longer a concept.
 - **2026-11-12**: this model. The company is the single frame and now carries the action (shifts). Signals are the lever, the answer to "how do I do that?". Training is the change process. Calming system = the handover.
+- **2026-11-12, rollout** (`derived/continuation-prompt-core-model.md`; markup accepted e92af8d). Answered the open questions: Ch04 L7 the CEO *sets the expectations* (clock on, clock off, clean handover), signals not named until L79; Ch04 L77 calming system = "the day shift hands over cleanly to the night shift", third job = "a CEO who stops calling the wrong executives in at the wrong times"; Ch04 L67 good staff "working hard" (not "overtime", which only fits the wake side); Ch03 fitness carries only "not overnight", answer first and fitness last at L32 ("A lot like getting fit."), L40 "Again, a bit like getting fit.", "over weeks" avoided early; Ch20 muscle image kept as the biology chapter; Ch10 L11–13 rebuilt around day shift, handover and daily signals (old L13 markup rejected); Ch17 L40 at 2am the calming system holds the night ("the night shift isn't over yet"); Ch20 L25 rejects the single signal in the moment, not signals. Knock-on list resolved: Ch04 L11/L65, Ch05 L55, Ch11 L46 changed; Ch07 L53, Ch16 L11, Ch20 L29–33/L45/L53/L113–125, Ch21 L31, Ch22 L67, Ch26 L9, L35 checked and left.
+- **2026-11-12, sweep** (`audit/core-model-sweep.md`; fixes accepted 7f63a63). 396 chapter mentions checked: 3 No, 7 Borderline, all fixed. Last "align" uses removed (Ch02 L41, Ch06 L25, Ch16 L31); label drift fixed (Ch06 L29, Ch18 L45, Ch20 L3, L51, endnote L885); Ch04 L51 consultant now "night shift starts now"; Ch17 L60 "repetitions" avoided; Ch03 L38 "Fix" → "Move". Third job now shown on the sleep side at Ch21 L15. Label-drift rule added above.

@@ -14,17 +14,17 @@ Catalog of all wiki pages, grouped by type. Updated on every BUILD pass.
 | [Time in bed vs sleep quality](wiki/time-in-bed-vs-sleep-quality.md) | More time in bed ≠ more sleep; sleep efficiency | ch01 |
 | [Sleep fragmentation](wiki/sleep-fragmentation.md) | Frequent night-time awakenings | ch01, ch09 |
 | [Cognitive impairment from sleep loss](wiki/cognitive-impairment-from-sleep-loss.md) | Brain fog, loss of presence, attentional failure | ch01, ch02, ch03, ch26 |
-| [Sleep as a system](wiki/sleep-as-a-system.md) | **The thesis.** Sleep is trained like fitness: small daily habits, done consistently, over weeks; "Not broken, just not well trained" | ch01, ch02, ch03, ch04, ch06, ch07, ch09, ch10, ch20, ch22, ch25, ch26 |
-| [Sleep Incorporated metaphor](wiki/sleep-incorporated-metaphor.md) | Corporate hierarchy: mission = a good night's sleep (output, not forced); CEO shapes the company culture so everyone works together; executives align with that culture; retraining = three jobs; bookended in ch26 with the training program | ch04–ch10, ch26 |
-| [Four executives](wiki/four-executives.md) | Adenosine, melatonin, cortisol, dopamine as the four leverage-point hormones | ch03, ch04, ch09, ch10 |
-| [Hormone misalignment](wiki/hormone-misalignment.md) | The diagnosis (the only diagnosis word): the four executives off their daily arc; cause = systems not well trained; "tired but wired" | ch02, ch04, ch05, ch06, ch07, ch08, ch09, ch16, ch22, ch26 |
+| [Sleep as a system](wiki/sleep-as-a-system.md) | **The thesis.** Sleep is the output of a company and the whole day; the executives clock on and off with a clean handover; habits send regular signals (activating or calming), and the same signals every day train the shifts; fitness is an illustration only; "Not broken, just not well trained" | ch01, ch02, ch03, ch04, ch06, ch07, ch09, ch10, ch20, ch21, ch25, ch26 |
+| [Sleep Incorporated metaphor](wiki/sleep-incorporated-metaphor.md) | The single model: sleep as the company's output; the CEO can't do the executives' jobs but sets the expectations (clock on, clock off, clean handover); good staff never well trained; consultants bypass the hierarchy; three jobs = roster, handover, not calling the wrong executives in | ch03–ch10, ch17–ch23, ch25, ch26 |
+| [Four executives](wiki/four-executives.md) | Adenosine, melatonin, cortisol, dopamine as the four leverage points; Sleep and Wake Executives, each with its own job and shift | ch03, ch04, ch05–ch08, ch09, ch10, ch26 |
+| [Working against each other](wiki/working-against-each-other.md) | The diagnosis in company terms (was "Hormone misalignment"; aligned/misaligned retired): executives working against each other instead of together; cause = never well trained; "tired but wired" | ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch16, ch22, ch26 |
 | [Adenosine](wiki/adenosine.md) | Sleep pressure executive; cleared during deep sleep; caffeine blocks its receptors | ch04, ch05, ch09, ch15, ch21 |
 | [Melatonin](wiki/melatonin.md) | Sleep timing executive; a signal not a sedative; production rarely the problem | ch04, ch06 |
 | [Cortisol](wiki/cortisol.md) | Wake executive; rhythm is the goal; modern life prevents the evening decline | ch04, ch07, ch09, ch12, ch14, ch16, ch18, ch22, ch24, ch25 |
 | [Dopamine](wiki/dopamine.md) | Motivation executive; novelty-seeking; screen content exploits this at night | ch04, ch08, ch09, ch17, ch23 |
 | [Sleep window](wiki/sleep-window.md) | Brief nightly alignment of sleep conditions; missing it leaves time for a thought to recruit cortisol | ch06, ch07, ch08, ch09, ch19, ch23 |
 | [Waking at 2–3am](wiki/waking-at-2am.md) | Circadian turning point: melatonin declining, adenosine spent, cortisol rising | ch06, ch09 |
-| [Calming and Activating Systems](wiki/calming-activating-systems.md) | Two nervous-system settings (activating/calming) christened in ch04; the program's "three jobs" (train the body clock, build the calming system, remove the disruptors) match the phase headings; calming system as trainable muscle; both causes of bad sleep trainable; active ≠ activated | ch04, ch05, ch06, ch07, ch08, ch10, ch11, ch16, ch17, ch18, ch19, ch20, ch21, ch22, ch23, ch26 |
+| [Calming and Activating Systems](wiki/calming-activating-systems.md) | The lever: two signals only, activating and calming; calming system = the handover; habits send signals and repeated signals are the training; labels don't drift ("side", "the calm", "activated state"); three jobs match the phase headings; calming system built like a muscle (ch20 illustration) | ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch14, ch16, ch17, ch18, ch19, ch20, ch21, ch22, ch23, ch26 |
 | [Vagus nerve](wiki/vagus-nerve.md) | Primary physical channel of the Calming System; stimulated by slow exhale | ch20, ch22 |
 | [Sleep stages](wiki/sleep-stages.md) | Deep sleep (repair/adenosine clearance) and REM (memory/emotion) | ch09, ch11, ch15, ch16 |
 | [Circadian rhythm](wiki/circadian-rhythm.md) | 24-hour body clock set by morning light and consistent wake time | ch03, ch04, ch06, ch09, ch18, ch19 |
@@ -60,7 +60,7 @@ Catalog of all wiki pages, grouped by type. Updated on every BUILD pass.
 |------|---------|------------|--------|
 | [Sleep and serious disease](wiki/sleep-and-disease.md) | Poor sleep linked to heart disease, diabetes, depression, cognitive decline | ch01, ch03 | ⚠️ no citations |
 | [Menopause exception](wiki/menopause-exception.md) | Progesterone/oestrogen drops override executive alignment | ch04 | established-science |
-| [Sleeping pills](wiki/sleeping-pills.md) | Bypass hierarchy without fixing misalignment; useful short-term | ch04 | established-science |
+| [Sleeping pills](wiki/sleeping-pills.md) | Outside consultant: bypasses the hierarchy without getting the executives working together; useful short-term | ch04 | established-science |
 | [Sleep loss and self-control](wiki/sleep-loss-and-self-control.md) | Sleep deprivation lowers willpower and dysregulates appetite hormones (ghrelin↑/leptin↓) — the "double bind" behind failed quitting | ch02, ch14, ch25 | ⚠️ no citations |
 
 ## Anecdotes

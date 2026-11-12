@@ -18,4 +18,4 @@ In the final program version: try the body scan meditation first (ch20). If unsu
 
 Blue light footnote: TV at 3 metres registers ~5 lux; phone at 30cm registers 25–50 lux. Content matters more than light at this distance.
 
-[[Meditation and body scan]] | [[Bed-sleep association]] | [[Cortisol]] | [[Dopamine]] | [[Hormone misalignment]]
+[[Meditation and body scan]] | [[Bed-sleep association]] | [[Cortisol]] | [[Dopamine]] | [[Working against each other]]

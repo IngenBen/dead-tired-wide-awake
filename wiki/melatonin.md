@@ -20,4 +20,4 @@ Supplements have two uses with different timing: a sleep aid for tonight (about 
 
 notes: Pending proposals (audit/ch06-melatonin-dose-timing-proposals-2026-10-21.md) would change the Ch6 dose and timing lines: the current "0.5 to 1mg, 30–60 minutes before your new target bedtime" (line 73) does not match the evidence for night owls or shift workers, and "responds to the rise rather than the level" (line 77) is unsourced. Evidence summary: 0.5 mg moves the clock as far as 3 mg; for sleep onset the effect grows slightly to about 4 mg, but timing matters more; at bedtime it adds only a few minutes. Update `appears_in` and this page once the author applies the changes.
 
-[[Adenosine]] | [[Sleep window]] | [[Circadian rhythm]] | [[Light and sleep]] | [[Hormone misalignment]]
+[[Adenosine]] | [[Sleep window]] | [[Circadian rhythm]] | [[Light and sleep]] | [[Working against each other]]

@@ -19,6 +19,6 @@ Two failure modes appear in the book: (1) caffeine blocking the adenosine signal
 
 Most people who have slept badly for years have adequate adenosine (pressure is real) — the problem is something overriding or preventing its clearance, not insufficient production.
 
-[[Sleep deficit]] | [[Caffeine]] | [[Sleep fragmentation]] | [[Hormone misalignment]] | [[Napping]] | [[Sleep stages]]
+[[Sleep deficit]] | [[Caffeine]] | [[Sleep fragmentation]] | [[Working against each other]] | [[Napping]] | [[Sleep stages]]
 
 notes: The science here is well-supported and consistent across the book. One nuance: ch05 says deep sleep clears adenosine; ch15 says alcohol fragments deep sleep and prevents clearing. These are consistent but neither cross-references the other explicitly.

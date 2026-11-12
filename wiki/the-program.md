@@ -7,10 +7,10 @@ status: original-idea
 appears_in:
   - ch02: origin — author builds the program from years of self-experimentation; 6-week change promise introduced
   - ch10: full structure defined — framed as a training program (both causes of bad sleep are trainable); twelve habits, sequenced one or two at a time; the "three jobs" gateway replaces the old category model; incremental, flexible; tracking recommended — free app (headlined) or paper (inclusive fallback) at www.sleepbuilders.com.au; community participation emphasised as a completion driver ("far more likely to see the program to the end if they are doing it with other people")
-  - ch14: Phase 2 begins; habits are numbered from here (Habit 1: Caffeine)
-  - ch25: final habit — Habit 12: Sugar & Food Sensitivities; "twenty-five chapters, twelve habits"
+  - ch14: Phase 2 begins; habits are numbered from here (Habit 1 – Caffeine)
+  - ch25: final habit — Habit 12 – Sugar & Food Sensitivities; "twenty-five chapters, twelve habits"
   - ch26: capstone — program described as creating conditions for sleep rather than fixing sleep directly; recap in the three-jobs / activating-calming language
-canonical: A sequenced twelve-habit program across five phases, designed to align the four executives across a full 24-hour day. Built for a modern busy life; prioritises sustainability over science-optimal. Framed as a training program: small daily habits, done consistently (see [[Sleep as a system]]).
+canonical: A sequenced twelve-habit program across five phases, designed to get the four executives working together across a full 24-hour day – clocking on and off at the right times, with a clean handover at night. Built for a modern busy life; prioritises sustainability over science-optimal. Framed as a training program – small daily habits, done consistently (see [[Sleep as a system]]).
 ---
 
 The program is the practical output of the book's science. Rather than a set of categories, the habits now do **three jobs** — which are ch04's three CEO signals (Activating, Calming, Timing) turned into daily action: build the calming system (Calming), stop propping up the activating system late in the day (Activating), and keep the body clock accurate so the swap between the two lands on time (Timing). Twelve habits are introduced across five phases (a set-up phase, then four phases of three habits each):

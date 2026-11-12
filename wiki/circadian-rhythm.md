@@ -20,4 +20,4 @@ Whether sleep comes depends on two forces together: sleep pressure, which builds
 
 The program's Phase 3 habits ("Train your body clock": can't-sleep, morning and evening routines) exist entirely to set and protect this clock.
 
-[[Morning routine]] | [[Evening routine]] | [[Melatonin]] | [[Cortisol]] | [[Hormone misalignment]] | [[Sleep window]]
+[[Morning routine]] | [[Evening routine]] | [[Melatonin]] | [[Cortisol]] | [[Working against each other]] | [[Sleep window]]

@@ -20,6 +20,6 @@ Timeline relative to habitual bedtime (clock times for a 10:30pm bedtime): wake 
 
 For someone with a well-trained sleep system the window matters little — the Wake Executives are quiet enough that the Sleep Executives win regardless. For someone who has slept badly for years, the window is the only period when the pull to sleep is strong enough to win, making protecting it critical.
 
-[[Melatonin]] | [[Adenosine]] | [[Cortisol]] | [[Hormone misalignment]] | [[Evening routine]] | [[Social media and sleep]]
+[[Melatonin]] | [[Adenosine]] | [[Cortisol]] | [[Working against each other]] | [[Evening routine]] | [[Social media and sleep]]
 
 notes: N4 decided 2026-10-19: the chapters no longer say the pull weakens after the steep part of the rise (Ch6 lines 27 and 33, Ch8 line 61, Ch9 lines 54/56 reworded on the rumination framing; proposals sections 18–22). In the sleep-gate studies the gate opens around melatonin onset and sleep propensity stays high; no study measures a short window at the steepest part of the rise. The 30–40 minute figure is the author's own experience. 'Second wind' does not appear in /book/ (removed from this page 2026-10-19). Ch6 notes: 'How does the sleep window line up with melatonin?' and 'Why does missing the window keep you awake?'.

@@ -16,6 +16,6 @@ For someone who sleeps well these shifts are imperceptible — cortisol is low e
 
 The most common aggravator: reaching for the phone at this moment. Even a brief glance provides a dopamine hit that fully activates both Wake Executives, making return to sleep nearly impossible.
 
-[[Melatonin]] | [[Adenosine]] | [[Cortisol]] | [[Hormone misalignment]] | [[Sleep window]] | [[Circadian rhythm]] | [[Sleep deficit]] | [[Sleep stages]]
+[[Melatonin]] | [[Adenosine]] | [[Cortisol]] | [[Working against each other]] | [[Sleep window]] | [[Circadian rhythm]] | [[Sleep deficit]] | [[Sleep stages]]
 
 notes: Peak timing corrected 2026-10-19 (N4; Zeitzer 2007, Tordjman 2017, Ch6 peak note 1–3 a.m.). For a 10–11pm sleeper, 2am is near the peak rather than clearly after it, so the book's Ch9 'Melatonin has peaked and its production tails off' at 2am sits at the early edge of the evidence. Audit candidate; not yet flagged.

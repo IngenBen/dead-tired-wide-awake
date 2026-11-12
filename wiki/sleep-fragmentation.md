@@ -14,4 +14,4 @@ Waking multiple times per night, with difficulty returning to sleep. In ch01 thi
 
 Ch09 provides the mechanistic explanation for the 2–3am wake specifically: the circadian turning point where melatonin production tails off and adenosine has been largely spent, leaving the elevated cortisol of someone who sleeps badly to fill the gap.
 
-[[Sleep deficit]] | [[Time in bed vs sleep quality]] | [[Sleep stages]] | [[Waking at 2–3am]] | [[Hormone misalignment]]
+[[Sleep deficit]] | [[Time in bed vs sleep quality]] | [[Sleep stages]] | [[Waking at 2–3am]] | [[Working against each other]]

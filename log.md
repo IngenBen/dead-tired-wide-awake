@@ -971,3 +971,9 @@ Whole-book sweep of the core-model vocabulary (company, shifts, signals, trainin
 
 ## [2026-11-12] edit | core model sweep fixes (CriticMarkup, pending review)
 Items 1-11 from audit/core-model-sweep.md agreed with Ben in chat, 18 changes: Ch02 L41 alignment; Ch03 L38 Fix->Move; Ch04 L49 typo, L51 consultant line; Ch06 L25 align + window sentence, L29 other side; Ch16 L31 aligned; Ch17 L60 repetitions; Ch18 L45 labels; Ch20 L3 phase intro, L51 activated state / forgotten; Ch21 L15 Sleep Executives called in early (new, third job sleep side); endnotes L885 heading. Item 12 agreed: add label-drift rule and Ch21 L15 pointer to derived/core-model.md at the wiki stage. Checkpoint 7a41d5a.
+
+## [2026-11-12] wiki | core model: thesis and metaphor pages rewritten; related pages updated
+Rewrote wiki/sleep-as-a-system.md and wiki/sleep-incorporated-metaphor.md from derived/core-model.md (SUPERSEDED banners removed). Updated four-executives.md and calming-activating-systems.md (calming system = the handover; two signals; label-drift rule). Renamed hormone-misalignment.md -> working-against-each-other.md (old title kept as alias; links updated in 12 wiki pages). Removed stale align wording in cortisol.md, sleeping-pills.md, the-program.md, menopause-exception.md. Fixed YAML frontmatter (inner ": " broke parsing) in those pages, including pre-existing errors in cortisol.md and the-program.md. index.md rows updated.
+
+## [2026-11-12] derived | core-model.md brought up to date
+Marked as reflected in /book/; CEO action = setting the expectations; label-drift and in-the-moment rules added to Signals; three-jobs table updated (hold the night at 2am, Ch17 L40; sleep side Ch21 L15); open questions closed; rollout and sweep decisions added to the decision history. Still open (Ben): where the pub version and "rostering problem" hook live.

@@ -18,6 +18,6 @@ Three-step approach:
 2. **Awareness before reduction:** Notice which content spikes emotion. Stop clicking it — not from discipline, but from understanding what it costs.
 3. **Redirect the algorithm:** Click deliberately toward genuinely engaging, non-arousing content. The feed changes within days. Then reduce usage in the run-up to bed.
 
-[[Dopamine]] | [[Cortisol]] | [[Sleep window]] | [[Hormone misalignment]] | [[Evening routine]] | [[Can't-sleep routine]]
+[[Dopamine]] | [[Cortisol]] | [[Sleep window]] | [[Working against each other]] | [[Evening routine]] | [[Can't-sleep routine]]
 
 notes: "Calm-good vs hyped-good" is introduced in ch08 and extended in ch23. The phrase appears to be an original framing. Ensure it's defined clearly in whichever chapter the reader encounters it first.
