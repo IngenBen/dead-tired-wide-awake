@@ -4,11 +4,11 @@ I’d like you to think about the foundation of your sleep system as a hierarchy
 
 This company makes only one thing: a good night's sleep. But you can't place an order directly. That's the uncomfortable truth from Chapter 3: sleep is something your body *creates*, once the conditions are right. You can't sit down in the evening and *decide* to produce it. It's an output, and outputs require everything upstream to work properly.
 
-As CEO you can’t reach in and operate the machinery yourself. What you can  do is shape the culture: one where everyone works together, so the company produces the result on its own.
+As CEO you can’t reach in and operate the machinery yourself. {++You can’t do anyone’s job for them. ++}What you {~~can  do~>can do~~} is {~~shape the culture: one where everyone works together~>set the expectations: when your staff clock on, when they clock off, and a clean handover from the day shift to the night shift. Get that right and everyone works together~~}, so the company produces the result on its own.
 
 At the head of the company you have 4 key hormones. These are your executives.
 
-They’re the four we landed on last chapter, not a complete biological picture, instead something a little bit less accurate, but way more useful: your 4 best leverage points. Your A-team. Each one doing its best to align with the company culture, each in its own way.
+They’re the four we landed on last chapter, not a complete biological picture, instead something a little bit less accurate, but way more useful: your 4 best leverage points. Your A-team. Each one doing its best{~~ to align with the company culture, each in its own way~>, with its own job and its own shift~~}.
 
 Two of these executives strongly influence sleep. And two of them strongly influence awake.
 
@@ -58,21 +58,25 @@ The graph above, which I will take you through in detail in the next four chapte
 
 When they don't... that's what I lived with for more than 20 years.
 
-Middle of the night. Wide awake. Heart going. Thoughts running through tomorrow's meeting, solving problems, worrying about the future. Just running. Creating that desperate frustration where your exhausted to your bones but your mind won't shut up. I didn't feel like I needed a good night's sleep. I felt like I needed a month of them!
+Middle of the night. Wide awake. Heart going. Thoughts running through tomorrow's meeting, solving problems, worrying about the future. Just running. Creating that desperate frustration where {~~your~>you're~~} exhausted to your bones but your mind won't shut up. I didn't feel like I needed a good night's sleep. I felt like I needed a month of them!
 
 And the good news I realised - this might not be a quirk of my personality or a sign that I am fundamentally broken.
 
-Cortisol hadn't come down. Dopamine had been topped up all evening (screens and notifications), my mind never got a break. Melatonin was trying to rise, but it was fighting two executives still insisting on keeping me awake. Adenosine was high. The tiredness was real. But the rest of the company wasn't listening. Four executives, working against each other. And nothing in my day had ever helped them work together.
+Cortisol hadn't come down. Dopamine had been topped up all evening (screens and notifications), my mind never got a break. Melatonin was trying to rise, but it was fighting two executives still insisting on keeping me awake. Adenosine was high. The tiredness was real. But the rest of the company wasn't listening. Four executives, working against each other.{-- And nothing in my day had ever helped them work together.--}
+
+{++None of them were bad at their jobs. They were good staff, all four of them, working hard. But nobody had ever made it clear when their shifts should start and end. So in the middle of the night, when I needed it most, the handover never turned up.++}
 
 Not broken, just not well trained.
 
-I was the CEO of Sleep Incorporated, but I  just didn't know it. I kept hiring consultants, one fix after another, never understanding why nothing stuck. The company kept underperforming and I kept looking for someone to step in and help.
+I was the CEO of Sleep Incorporated, but {~~I  just~>I just~~} didn't know it. I kept hiring consultants, one fix after another, never understanding why nothing stuck. The company kept underperforming and I kept looking for someone to step in and help.
 
 The answer wasn't a new consultant. It was learning how the business actually worked, and training it, every day.
 
 And that's what I want to give you: an understanding of the four executives, the hierarchy that follows their lead, and how to turn a company working against itself into one that works together.
 
-That takes three things. A reliable body clock, so the executives know when to clock on and when to clock off. A strong calming system, so they actually do. And a CEO who stops getting in their way. None of it changes overnight. Like any training, it comes from daily habits, and every habit in this book does one of those three jobs.
+That takes three things. A reliable body clock, so the executives know when to clock on and when to clock off. A strong calming system, so {~~they actually do~>the day shift hands over cleanly to the night shift~~}. And a CEO who stops {~~getting in their way~>calling the wrong executives in at the wrong times~~}.{-- None of it changes overnight. Like any training, it comes from daily habits, and every habit in this book does one of those three jobs.--}
+
+{++None of it changes overnight. Like any training, it comes from daily habits, and every habit in this book does one of those three jobs. Each one sends the company a signal, activating or calming. Send the same signals every day, and the executives learn their shifts.++}
 
 Before the habits, though, you need to know the executives. The next four chapters take each one in turn: what it does, what disrupts it, and what you can do in an ordinary day to support it.
 
