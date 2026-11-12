@@ -983,3 +983,6 @@ Inner ": " in appears_in / canonical values broke YAML, so Obsidian could not re
 
 ## [2026-11-12] derived | core-model.md: pub version placement decided
 Ben: the pub version and the "rostering problem" hook are knowledge-base explanations, not book text; kept in core-model.md for later QUERY/content work. Open question closed.
+
+## [2026-11-12] git | GitHub backup set up
+Private repo IngenBen/dead-tired-wide-awake; full history (24 commits, master at e460c6a) pushed via a git bundle (C:\Projects\sleep-inc\sleep-inc-history.bundle, staged to the cloud session and pushed from there; this machine has no GitHub credentials). origin added locally. To push later: git bundle create ../../sleep-inc-history.bundle master, stage it, fetch into the session clone, git push origin master.
